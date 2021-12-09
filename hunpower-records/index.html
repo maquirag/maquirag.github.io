@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang='hu'>
+
+<head>
+    <title>Erőemelés - Magyar Csúcsok</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.1/papaparse.min.js"
+        integrity="sha512-EbdJQSugx0nVWrtyK3JdQQ/03mS3Q1UiAhRtErbwl1YL/+e2hZdlIcSURxxh7WXHTzn83sjlh2rysACoJGfb6g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <style>
+        div#record-results table,
+        div#record-results th,
+        div#record-results td {
+            border: 1px solid black;
+        }
+
+        div#record-results table {
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Eredmények</h1>
+    <div id='record-choices'>
+        <select id='record-gender'></select>
+        <select id='record-style'></select>
+        <select id='record-group'></select>
+    </div>
+    <div id='record-results'></div>
+
+    <script language='javascript'>
+        let memory = null;
+        const dataURL = 'records.csv';
+
+        const parseData = (url, callBack) =>
+            Papa.parse(url, {
+                download: true,
+                complete: (results) => callBack(results.data)
+            });
+
+
+        const createOption = (value) => {
+            const option = document.createElement('option');
+            option.textContent = value;
+            option.value = value;
+            return option;
+        }
+
+        const addOptions = () => {
+            const headers = memory[0];
+
+            const genders = new Set(memory.slice(1).map(e => e[0]));
+            const genderSelect = document.getElementById('record-gender');
+            for (let o of genders) {
+                genderSelect.appendChild(createOption(o));
+            }
+            genderSelect.addEventListener("change", updateTables)
+
+            const styles = new Set(memory.slice(1).map(e => e[1]));
+            const styleSelect = document.getElementById('record-style');
+            for (let o of styles) {
+                styleSelect.appendChild(createOption(o));
+            }
+            styleSelect.addEventListener("change", updateTables)
+
+            const groups = new Set(memory.slice(1).map(e => e[2]));
+            const groupSelect = document.getElementById('record-group');
+            for (let o of groups) {
+                groupSelect.appendChild(createOption(o));
+            }
+            groupSelect.addEventListener("change", updateTables)
+        }
+
+        const fillTableHeaders = () => {
+            const results = document.getElementById('record-results');
+            for (let t of new Set(memory.slice(1).map(e => e[3]))) {
+                const heading = document.createElement('h3');
+                heading.textContent = t
+                results.appendChild(heading);
+                const table = document.createElement('table');
+                table.id = t;
+                const thead = document.createElement('thead');
+                table.appendChild(thead);
+                const trow = document.createElement('tr');
+                thead.appendChild(trow);
+                for (let label of memory[0].slice(4)) {
+                    const tdata = document.createElement('th');
+                    tdata.textContent = label;
+                    trow.appendChild(tdata);
+                }
+                const tbody = document.createElement('tbody');
+                table.appendChild(tbody);
+                results.appendChild(table);
+            }
+        }
+
+        const createTableRow = (cells) => {
+            const tr = document.createElement('tr');
+            for (cell of cells) {
+                const td = document.createElement('td');
+                td.textContent = cell;
+                tr.appendChild(td);
+            }
+            return tr;
+        }
+
+        const updateTables = () => {
+            const gender = document.getElementById('record-gender').value
+            const style = document.getElementById('record-style').value
+            const group = document.getElementById('record-group').value
+            for (let exercise of new Set(memory.slice(1).map(e => e[3]))) {
+                const tbody = document.getElementById(exercise).querySelector('tbody');
+                const content = memory
+                    .filter(a => a[0] == gender && a[1] == style && a[2] == group && a[3] == exercise)
+                    .map(a => createTableRow(a.slice(4)));
+                tbody.replaceChildren(...content);
+            }
+        }
+
+        const processResult = (data) => {
+            memory = data;
+            addOptions();
+            fillTableHeaders();
+            updateTables();
+        }
+
+        window.onload = () => parseData(dataURL, processResult);
+    </script>
+</body>
+
+</html>

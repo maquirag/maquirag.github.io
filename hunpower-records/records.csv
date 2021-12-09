@@ -1,0 +1,865 @@
+Nem;Stílus;Csoport;Gyakorlat;Súlycsoport;Név;Egyesület;Születési év;Testsúly;Eredmény;Dátum;Helyszín;Verseny
+Férfi;EQ;Open;Összetett;-59kg;alaprekord;;;;520,0;2011.01.01;;
+Férfi;EQ;Open;Összetett;-66kg;Somodi Vince;Jászladányi Egyetértés SE;1995;63,41;605,0;2018.05.06-12;Pilsen (CZE);Erőemelő Európa Bajnokság
+Férfi;EQ;Open;Összetett;-74kg;alaprekord;;;;650,0;2011.01.01;;
+Férfi;EQ;Open;Összetett;-83kg;Fekete Miklós;Avas TK;1973;82,70;810,0;2011.05.05;Pilsen (CZE);Erőemelő Európa Bajnokság
+Férfi;EQ;Open;Összetett;-93kg;Horváth Péter;Flex SE;1991;92,30;812,5;2014.10.04-05;Gyula;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Összetett;-105kg;Opra Gergő;Barcsi VSE;1994;101,85;850,0;2016.12.17;Budapest;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Összetett;-120kg;Sánta László;Tölgy Fitness;1986;117,50;910,0;2015.09.19;Orosháza;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Összetett;120+kg;Mikula Norbert;Bihari SE;1993;144,00;891,0;2011.10.07-09;Budapest;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Guggolás;-59kg;Orosi Tamás;Mérk Kinizsi SE;1996;58,10;170,0;2016.12.17;Budapest;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Guggolás;-66kg;Somodi Vince;Jászladányi Egyetértés SE;1995;63,80;225,0;2018.05.06-12;Pilsen (CZE);Erőemelő Európa Bajnokság
+Férfi;EQ;Open;Guggolás;-74kg;Rácz Dávid;Mérk Kinizsi SE;1996;73,75;240,0;2014.10.04-05;Gyula;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Guggolás;-83kg;Fekete Miklós;Avas TK;1976;82,70;320,0;2011.05.05;Pilsen (CZE);Erőemelő Európa Bajnokság
+Férfi;EQ;Open;Guggolás;-93kg;Horváth Péter;Flex SE;1991;92,30;322,5;2014.10.04-05;Gyula;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Guggolás;-105kg;Kulcsár Dávid;KeletEreje Nyíregyháza;1995;102,90;317,5;2020.09.12-13;Szombathely;RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Guggolás;-120kg;Sánta László;Tölgy Fitness;1986;117,50;320,0;2015.09.19;Orosháza;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Guggolás;120+kg;Szabó Zsolt;Földesi Titán SE;1975;160,10;360,0;2014.10.04-05;Gyula;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Fekvenyomás;-59kg;alaprekord;;;;145,0;2011.01.01;;
+Férfi;EQ;Open;Fekvenyomás;-66kg;Molnár Gábor;RKA Erőművek SE;1978;65,96;160,0;2018.10.27-28;Orosháza;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Fekvenyomás;-74kg;Nemes Róbert;Marvel Team SE;1986;73,75;195,0;2011.10.07-09;Budapest;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Fekvenyomás;-83kg;alaprekord;;;;225,0;2011.01.01;;
+Férfi;EQ;Open;Fekvenyomás;-93kg;alaprekord;;;;240,0;2011.01.01;;
+Férfi;EQ;Open;Fekvenyomás;-105kg;Sebestyén Tamás;Sebi Gym SE;1980;103,45;295,0;2014.10.04-05;Gyula;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Fekvenyomás;-120kg;Kovács Ferenc;Orosházi Toldi SE;1988;115,55;270,5;2013.12.14-15;Budapest;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Fekvenyomás;120+kg;Véró Alex;Orosházi Toldi SE;1996;168,40;301,5;2018.10.27-28;Orosháza;Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Felhúzás;-59kg;Nagy Viktor;Herkules SE;1995;54,60;176,0;2019.06.22-23;Ászár;RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Felhúzás;-66kg;Somodi Vince;Jászladányi Egyetértés SE;1995;63,41;235,0;2018.05.06-12;Pilsen (CZE);Erőemelő Európa Bajnokság
+Férfi;EQ;Open;Felhúzás;-74kg;Somodi Vince;Jászladányi Egyetértés SE;1995;68,90;251,0;2021.11.06;Orosháza;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Felhúzás;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,70;277,5;2011.07.05;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Open;Felhúzás;-93kg;Fekete Miklós;Sirius Lifting SE;1973;92,65;310,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Open;Felhúzás;-105kg;Hegedűs Áron;Westfit Gym SE;1996;103,22;332,5;2021.10.02;Halmstad (SWE);RAW Erőemelő Világbajnokság
+Férfi;EQ;Open;Felhúzás;-120kg;Sánta László;Tölgy Fitness;1986;117,50;320,0;2015.09.19;Orosháza;Erőemelő Magyar Bajnokság
+Férfi;EQ;Open;Felhúzás;120+kg;Seres Zoltán;KeletEreje Nyíregyháza;1995;129,40;332,5;2018.11.24-12.02;Kaunas (LTU);RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Ifjúsági;Összetett;-53kg;alaprekord;;;;430,0;2011.01.01;;
+Férfi;EQ;Ifjúsági;Összetett;-59kg;alaprekord;;;;450,0;2011.01.01;;
+Férfi;EQ;Ifjúsági;Összetett;-66kg;Somodi Vince;Jászladányi Egyetértés SE;1995;64,60;527,5;2012.12.08-09;Orosháza;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Összetett;-74kg;Rácz Dávid;Mérk Kinizsi SE;1996;73,75;640,0;2014.10.04-05;Gyula;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Összetett;-83kg;Kishonti Noel;Orosházi Toldi SE;1996;81,72;630,0;2013.04.09-13;Prága (CZE);Ifi Erőemelő Európa Bajnokság
+Férfi;EQ;Ifjúsági;Összetett;-93kg;Susa Olivér;Vasdisznó SE;2004;93,00;702,0;2021.09.28;Halmstad (SWE);Ifi RAW Erőemelő Világbajnokság
+Férfi;EQ;Ifjúsági;Összetett;-105kg;ifj. Szimcsina Mihály;KeletEreje Nyíregyháza;1999;101,80;660,5;2017.10.14-15;Budapest;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Összetett;-120kg;Ungai Olivér;Hajdúszoboszlói BSE;1998;111,50;630,0;2015.04.07-11;Orosháza;Ifi Junior Erőemelő Európa Bajnokság
+Férfi;EQ;Ifjúsági;Összetett;120+kg;Mikula Norbert;Bihari SE;1993;144,00;891,0;2011.10.07-09;Budapest;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Guggolás;-53kg;Terebesi Ákos;Ózdi Súlyemelő SE;2004;58,75;133,0;2017.11.25-26;Kisbér;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Guggolás;-59kg;Orosi Tamás;Mérk Kinizsi SE;1996;56,50;165,0;2014.09.01-06;Orosháza;Ifi Junior Erőemelő Világbajnokság
+Férfi;EQ;Ifjúsági;Guggolás;-66kg;Somodi Vince;Jászladányi Egyetértés SE;1995;63,65;192,5;2013.12.14-15;Budapest;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Guggolás;-74kg;Rácz Dávid;Mérk Kinizsi SE;1996;73,75;240,0;2014.10.04-05;Gyula;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Guggolás;-83kg;Szabó Árpád;JAK;1993;81,85;230,0;2011.10.07-09;Budapest;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Guggolás;-93kg;Susa Olivér;Vasdisznó SE;2004;93,00;250,0;2021.09.28;Halmstad (SWE);Ifi RAW Erőemelő Világbajnokság
+Férfi;EQ;Ifjúsági;Guggolás;-105kg;Füzesi Marcell;Mérk Kinizsi SE;2003;96,50;221,0;2021.11.06;Orosháza;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Guggolás;-120kg;Kandrák Patrik;KeletEreje Nyíregyháza;1999;117,05;216,0;2017.10.14-15;Budapest;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Guggolás;120+kg;Mikula Norbert;Bihari SE;1993;144,00;310,0;2011.10.07-09;Budapest;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Fekvenyomás;-53kg;Orosi Tamás;Mérk Kinizsi SE;1996;51,00;105,0;2013.09.14;Győrszentiván;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Fekvenyomás;-59kg;Orosi Tamás;Mérk Kinizsi SE;1996;56,50;127,5;2014.10.04-05;Gyula;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Fekvenyomás;-66kg;Fazekas Tibor;Marvel Team SE;1996;63,75;140,0;2014.10.04-05;Gyula;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Fekvenyomás;-74kg;Rácz Dávid;Mérk Kinizsi SE;1996;73,75;180,0;2014.10.04-05;Gyula;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Fekvenyomás;-83kg;Mihálik Ádám;Tabi Fitness Klub SE;1994;82,00;170,0;2012.12.08-09;Orosháza;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Fekvenyomás;-93kg;Susa Olivér;Vasdisznó SE;2004;93,00;187,0;2021.09.28;Halmstad (SWE);Ifi RAW Erőemelő Világbajnokság
+Férfi;EQ;Ifjúsági;Fekvenyomás;-105kg;Szászi Milán;Orosházi Toldi SE;1997;96,05;172,5;2015.05.01-02;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Fekvenyomás;-120kg;Ungai Olivér;Hajdúszoboszlói BSE;1998;111,50;172,5;2015.04.07-11;Orosháza;Ifi Junior Erőemelő Európa Bajnokság
+Férfi;EQ;Ifjúsági;Fekvenyomás;120+kg;Mikula Norbert;Bihari SE;1993;144,00;301,0;2011.10.07-09;Budapest;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Felhúzás;-53kg;Orosi Tamás;Mérk Kinizsi SE;1996;51,00;150,0;2013.09.14;Győrszentiván;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Felhúzás;-59kg;Somodi Vince;Famílya SC;1995;57,60;175,0;2011.10.07-09;Budapest;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Felhúzás;-66kg;Somodi Vince;Egyetértés SE;1995;64,60;215,0;2012.12.08-09;Orosháza;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Felhúzás;-74kg;Nagy Zoltán;Tabi Fitness Klub SE;2004;71,50;230,0;2021.06.26;Budapest;Ifi Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Felhúzás;-83kg;Kishonti Noel;Orosházi Toldi SE;1996;81,72;250,0;2013.04.09-13;Prága (CZE);Ifi Erőemelő Európa Bajnokság
+Férfi;EQ;Ifjúsági;Felhúzás;-93kg;Susa Olivér;Vasdisznó SE;2004;93,00;265,0;2021.09.28;Halmstad (SWE);Ifi RAW Erőemelő Világbajnokság
+Férfi;EQ;Ifjúsági;Felhúzás;-105kg;ifj. Szimcsina Mihály;KeletEreje Nyíregyháza;1999;101,80;290,0;2017.10.14-15;Budapest;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Felhúzás;-120kg;Kandrák Patrik;KeletEreje Nyíregyháza;1999;118,20;260,0;2017.11.25-26;Kisbér;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Ifjúsági;Felhúzás;120+kg;Mikula Norbert;Bihari SE;1993;144,00;280,0;2011.10.07-09;Budapest;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Összetett;-53kg;alaprekord;;;;480,0;2011.01.01;;
+Férfi;EQ;Junior;Összetett;-59kg;alaprekord;;;;500,0;2011.01.01;;
+Férfi;EQ;Junior;Összetett;-66kg;Somodi Vince;Jászladányi Egyetértés SE;1995;64,20;585,0;2015.04.07-11;Orosháza;Ifi Junior Erőemelő Európa Bajnokság
+Férfi;EQ;Junior;Összetett;-74kg;Rácz Dávid;Mérk Kinizsi SE;1996;73,75;640,0;2014.10.04-05;Gyula;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Összetett;-83kg;Enahoro Asein;Westfit Gym SE;1999;81,54;701,0;2021.09.30;Halmstad (SWE);RAW Erőemelő Világbajnokság
+Férfi;EQ;Junior;Összetett;-93kg;Horváth Péter;Flex SE;1991;92,30;812,5;2014.10.04-05;Gyula;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Összetett;-105kg;Opra Gergő;Barcsi VSE;1994;101,85;850,0;2016.12.17;Budapest;Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Összetett;-120kg;Bereczki Szilárd;Sirius Lifting SE;1999;111,20;805,0;2021.08.28;Baja;II.o RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Összetett;120+kg;Mikula Norbert;Bihari SE;1993;144,00;891,0;2011.10.07-09;Budapest;Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Guggolás;-53kg;alaprekord;;;;150,0;2011.01.01;;
+Férfi;EQ;Junior;Guggolás;-59kg;Orosi Tamás;Mérk Kinizsi SE;1996;58,10;170,0;2016.12.17;Budapest;Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Guggolás;-66kg;Somodi Vince;Jászladányi Egyetértés SE;1995;63,80;222,5;2016.08.29-09.03;Szczyrk (POL);Ifi Junior Erőemelő Világbajnokság
+Férfi;EQ;Junior;Guggolás;-74kg;Rácz Dávid;Mérk Kinizsi SE;1996;73,75;240,0;2014.10.04-05;Gyula;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Guggolás;-83kg;Czégényi Raymond;RKA Erőművek SE;1992;79,35;250,0;2014.04.09-13;Szentpétervár (RUS);Ifi Junior Erőemelő Európa Bajnokság
+Férfi;EQ;Junior;Guggolás;-93kg;Horváth Péter;Flex SE;1991;92,30;322,5;2014.10.04-05;Gyula;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Guggolás;-105kg;Opra Gergő;Barcsi VSE;1994;101,85;310,0;2016.12.17;Budapest;Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Guggolás;-120kg;Farkas Ádám;Orosházi Toldi SE;1992;117,20;300,0;2015.10.24;Győr;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Guggolás;120+kg;Véró Alex;Orosházi Toldi SE;1996;162,15;315,0;2017.10.14-15;Budapest;Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Fekvenyomás;-53kg;alaprekord;;;;110,0;2011.01.01;;
+Férfi;EQ;Junior;Fekvenyomás;-59kg;Orosi Tamás;Mérk Kinizsi SE;1996;58,10;128,0;2016.12.17;Budapest;Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Fekvenyomás;-66kg;Orosi József;Mérk Kinizsi SE;1992;63,60;150,0;2012.04.14-15;Orosháza;Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Fekvenyomás;-74kg;Rácz Dávid;Mérk Kinizsi SE;1996;73,75;180,0;2014.10.04-05;Gyula;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Fekvenyomás;-83kg;Rácz Dávid;Mérk Kinizsi SE;1996;80,45;180,0;2017.10.14-15;Budapest;Ifi Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Fekvenyomás;-93kg;Sebestyén Tamás;Barcsi VSE;1992;90,70;205,5;2015.09.19;Orosháza;Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Fekvenyomás;-105kg;Opra Gergő;Barcsi VSE;1994;101,85;230,0;2016.12.17;Budapest;Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Fekvenyomás;-120kg;Farkas Ádám;Orosházi Toldi SE;1992;117,20;303,0;2015.10.24;Győr;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Fekvenyomás;120+kg;Véró Alex;Orosházi Toldi;1996;168,40;301,5;2018.10.27-28;Orosháza;Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Felhúzás;-53kg;Nagy Viktor;Herkules SE;1995;52,50;160,0;2018.10.06;Orosháza;Junior RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Felhúzás;-59kg;Somodi Vince;Familya SC;1995;57,60;175,0;2011.10.07-09;Budapest;Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Felhúzás;-66kg;Somodi Vince;Jászladányi Egyetértés SE;1995;64,20;235,0;2015.04.07-11;Orosháza;Ifi Junior Erőemelő Európa Bajnokság
+Férfi;EQ;Junior;Felhúzás;-74kg;Posta Krisztián;Vitalitás SE;2000;73,80;250,0;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Férfi;EQ;Junior;Felhúzás;-83kg;Kulcsár Dávid;Popeye Power Nyíregyháza;1996;82,74;275,0;2015.03.21-28;Pilsen (CZE);Junior RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Junior;Felhúzás;-93kg;Horváth Péter;Flex SE;1991;92,30;305,0;2014.10.04-05;Gyula;Ifi Junior Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Felhúzás;-105kg;Hegedűs Áron;Westfit Gym SE;1996;104,40;330,0;2019.11.29-12.08;Kaunas (LTU);Junior RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Junior;Felhúzás;-120kg;Bereczki Szilárd;Sirius Lifting SE;1999;111,20;305,0;2021.08.28;Baja;II.o RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Junior;Felhúzás;120+kg;Seres Zoltán;KeletEreje Nyíregyháza;1995;129,40;332,5;2018.11.24-12.02;Kaunas (LTU);Junior RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 1;Összetett;-59kg;alaprekord;;;;480,0;2011.01.01;;
+Férfi;EQ;Masters 1;Összetett;-66kg;alaprekord;;;;500,0;2011.01.01;;
+Férfi;EQ;Masters 1;Összetett;-74kg;Varga István;TIFIT;1968;73,30;552,5;2012.04.14-15;Orosháza;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Összetett;-83kg;Hornyák Péter;Sirius Lifting SE;1979;81,70;655,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 1;Összetett;-93kg;Fekete Miklós;Sirius Lifting SE;1973;92,65;767,5;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 1;Összetett;-105kg;Menyhárt Péter;Attila Fitness SE;1973;102,85;712,5;2014.10.04-05;Gyula;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Összetett;-120kg;Pánisz László;Hajdúszoboszlói BSE;1972;117,50;781,0;2014.10.04-05;Gyula;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Összetett;120+kg;Szegi Attila;Mérk Kinizsi SE;1976;133,70;755,5;2019.11.02-03;Budapest;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Guggolás;-59kg;alaprekord;;;;150,0;2011.01.01;;
+Férfi;EQ;Masters 1;Guggolás;-66kg;Tóth Ferenc;Pannónia Power;1966;66,00;180,0;2014.10.04-05;Gyula;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Guggolás;-74kg;Béres Zsolt;Familya Jászapáti;1978;72,80;197,0;2018.10.27-28;Orosháza;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Guggolás;-83kg;Fekete Miklós;Avas TK;1973;82,60;235,0;2015.03.21-28;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 1;Guggolás;-93kg;Fekete Miklós;Sirius Lifting SE;1973;92,65;270,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 1;Guggolás;-105kg;Menyhárt Péter;Attila Fitness SE;1973;102,85;255,0;2014.10.04-05;Gyula;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Guggolás;-120kg;Pánisz László;Hajdúszoboszlói BSE;1972;117,50;300,0;2014.10.04-05;Gyula;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Guggolás;120+kg;Papp Zsolt;PowerBuilder SE;1979;141,30;285,5;2021.06.27;Budapest;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Fekvenyomás;-59kg;alaprekord;;;;105,0;2011.01.01;;
+Férfi;EQ;Masters 1;Fekvenyomás;-66kg;Molnár Gábor;RKA Erőművek SE;1978;65,96;160,0;2018.10.27-28;Orosháza;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Fekvenyomás;-74kg;Molnár Gábor;RKA Erőművek SE;1978;68,90;160,0;2019.11.02-03;Budapest;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Fekvenyomás;-83kg;Gyuricska István;Ózdi SFC;1967;80,70;182,5;2014.05.16-18;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Fekvenyomás;-93kg;Sáfrány Zoltán;Tabi Fitnesz Klub;1960;91,85;190,0;2013.12.14-15;Budapest;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Fekvenyomás;-105kg;alaprekord;;;;205,0;2011.01.01;;
+Férfi;EQ;Masters 1;Fekvenyomás;-120kg;alaprekord;;;;220,0;2011.01.01;;
+Férfi;EQ;Masters 1;Fekvenyomás;120+kg;alaprekord;;;;235,0;2011.01.01;;
+Férfi;EQ;Masters 1;Felhúzás;-59kg;Bali József;Gyulai Atlasz SE;1973;57,80;165,0;2019.04.06-07;Székesfehérvár;II.o. Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Felhúzás;-66kg;Tóth Ferenc;Pannónia Power;1966;65,70;200,0;2015.05.01-02;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Felhúzás;-74kg;Solymosi Péter;Vasdisznó SE;1979;73,30;217,5;2021.06.26;Budapest;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Felhúzás;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,70;277,5;2011.07.05;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 1;Felhúzás;-93kg;Fekete Miklós;Sirius Lifting SE;1973;92,65;310,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 1;Felhúzás;-105kg;Menyhárt Péter;Attila Fitness SE;1973;102,20;285,0;2015.05.01-02;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Felhúzás;-120kg;Pánisz László;Hajdúszoboszlói BSE;1972;118,00;315,5;2016.05.01;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 1;Felhúzás;120+kg;Papp Zsolt;PowerBuilder SE;1979;141,30;300,5;2021.06.27;Budapest;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Összetett;-59kg;alaprekord;;;;450,0;2011.01.01;;
+Férfi;EQ;Masters 2;Összetett;-66kg;alaprekord;;;;460,0;2011.01.01;;
+Férfi;EQ;Masters 2;Összetett;-74kg;Orosz László;Bátor Fitt Erőemelő Klub;1969;70,90;505,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 2;Összetett;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,70;647,5;2011.07.05;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 2;Összetett;-93kg;Sáfrány Zoltán;Tabi Fitness Klub;1960;91,35;590,0;2014.10.04-05;Gyula;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Összetett;-105kg;Lovász György;Gyulai Atlasz SE;1947;104,23;670,0;2012.07.17-21;Pilsen (CZE);Masters Erőemelő Európabajnokság
+Férfi;EQ;Masters 2;Összetett;-120kg;Mamedov Iaman;Uralsport;1960;105,05;730,0;2014.10.04-05;Gyula;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Összetett;120+kg;Szolnoki Béla;Gyulai Atlas SE;1969;123,90;702,5;2019.04.06-07;Székesfehérvár;II.o. Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Guggolás;-59kg;alaprekord;;;;140,0;2011.01.01;;
+Férfi;EQ;Masters 2;Guggolás;-66kg;alaprekord;;;;150,0;2011.01.01;;
+Férfi;EQ;Masters 2;Guggolás;-74kg;Orosz László;Bátor Fitt Erőemelő Klub;1969;70,90;172,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 2;Guggolás;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,70;230,0;2011.07.05;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 2;Guggolás;-93kg;Ficzere Tamás;Sirius Lifting SE;1970;85,60;217,5;2020.09.12-13;Szombathely;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Guggolás;-105kg;Lovász György;Gyulai Atlasz SE;1947;104,23;250,0;2012.07.17-21;Pilsen (CZE);Masters Erőemelő Európabajnokság
+Férfi;EQ;Masters 2;Guggolás;-120kg;Mamedov Iaman;Uralsport;1960;105,05;300,0;2014.10.04-05;Gyula;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Guggolás;120+kg;Szolnoki Béla;Gyulai Atlas SE;1969;123,90;270,0;2019.04.06-07;Székesfehérvár;II.o. Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Fekvenyomás;-59kg;alaprekord;;;;90,0;2011.01.01;;
+Férfi;EQ;Masters 2;Fekvenyomás;-66kg;alaprekord;;;;100,0;2011.01.01;;
+Férfi;EQ;Masters 2;Fekvenyomás;-74kg;Orosz László;Bátor Fitt Erőemelő Klub;1969;70,90;127,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 2;Fekvenyomás;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,70;140,0;2011.07.05;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 2;Fekvenyomás;-93kg;Bársony Attila;Sugó Power SE;1966;91,10;200,0;2017.10.14-15;Budapest;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Fekvenyomás;-105kg;Bársony Attila;Sugó Power SE;1966;93,31;195,0;2018.10.27-28;Orosháza;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Fekvenyomás;-120kg;Mamedov Iaman;Uralsport;1960;106,35;180,0;2014.10.04-05;Gyula;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Fekvenyomás;120+kg;Bodnár István;Orosházi Toldi SE;1965;165,10;190,0;2015.10.24;Győrszentiván;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Felhúzás;-59kg;Görög László;Mérk Kinizsi SE;1963;57,65;152,5;2014.10.04-05;Gyula;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Felhúzás;-66kg;alaprekord;;;;160,0;2011.01.01;;
+Férfi;EQ;Masters 2;Felhúzás;-74kg;Orosz László;Bátor Fitt Erőemelő Klub;1969;70,90;205,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 2;Felhúzás;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,70;277,5;2011.07.05;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 2;Felhúzás;-93kg;Ficzere Tamás;Sirius Lifting SE;1970;85,60;242,5;2020.09.12-13;Szombathely;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Felhúzás;-105kg;Standinger István;Flex SE;1950;104,50;250,5;2013.09.29;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Felhúzás;-120kg;Mamedov Iaman;Uralsport;1960;105,05;250,0;2014.10.04-05;Gyula;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 2;Felhúzás;120+kg;Szolnoki Béla;Gyulai Atlasz SE;1969;123,90;292,5;2019.04.06-07;Székesfehérvár;II.o. Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 3;Összetett;-59kg;alaprekord;;;;420,0;2011.01.01;;
+Férfi;EQ;Masters 3;Összetett;-66kg;alaprekord;;;;440,0;2011.01.01;;
+Férfi;EQ;Masters 3;Összetett;-74kg;alaprekord;;;;460,0;2011.01.01;;
+Férfi;EQ;Masters 3;Összetett;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,70;647,5;2011.07.05;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 3;Összetett;-93kg;Dr. Újvári Ernő;Flex SE;1948;92,10;520,0;2012.12.08-09;Orosháza;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 3;Összetett;-105kg;Lovász György;Gyulai Atlasz SE;1947;104,23;670,0;2012.07.17-21;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 3;Összetett;-120kg;Standinger István;Flex SE;1950;109,95;585,0;2016.10.02-08;Tallin (EST);Masters Erőemelő Világbajnokság
+Férfi;EQ;Masters 3;Összetett;120+kg;alaprekord;;;;550,0;2011.01.01;;
+Férfi;EQ;Masters 3;Guggolás;-59kg;alaprekord;;;;130,0;2011.01.01;;
+Férfi;EQ;Masters 3;Guggolás;-66kg;alaprekord;;;;140,0;2011.01.01;;
+Férfi;EQ;Masters 3;Guggolás;-74kg;alaprekord;;;;150,0;2011.01.01;;
+Férfi;EQ;Masters 3;Guggolás;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,70;230,0;2011.07.05;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 3;Guggolás;-93kg;Dr. Újvári Ernő;Flex SE;1948;92,10;200,0;2012.12.08-09;Orosháza;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 3;Guggolás;-105kg;Lovász György;Gyulai Atlasz SE;1947;104,23;250,0;2012.07.17-21;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 3;Guggolás;-120kg;Standinger István;Flex SE;1950;109,95;190,0;2016.10.02-08;Tallin (EST);Masters Erőemelő Világbajnokság
+Férfi;EQ;Masters 3;Guggolás;120+kg;alaprekord;;;;200,0;2011.01.01;;
+Férfi;EQ;Masters 3;Fekvenyomás;-59kg;alaprekord;;;;75,0;2011.01.01;;
+Férfi;EQ;Masters 3;Fekvenyomás;-66kg;alaprekord;;;;85,0;2011.01.01;;
+Férfi;EQ;Masters 3;Fekvenyomás;-74kg;Gerstmayer László;Bátor Fitt Erőemelő Klub;1950;70,60;110,0;2016.10.15;Budapest;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 3;Fekvenyomás;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,70;140,0;2011.07.05;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 3;Fekvenyomás;-93kg;Szarka Antal;BodyPower SE;1955;92,50;137,5;2021.11.06;Orosháza;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 3;Fekvenyomás;-105kg;Lovász György;Gyulai Atlasz SE;1947;104,23;170,0;2012.07.17-21;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 3;Fekvenyomás;-120kg;Standinger István;Flex SE;1950;109,95;165,0;2016.10.02-08;Tallin (EST);Masters Erőemelő Világbajnokság
+Férfi;EQ;Masters 3;Fekvenyomás;120+kg;alaprekord;;;;145,0;2011.01.01;;
+Férfi;EQ;Masters 3;Felhúzás;-59kg;alaprekord;;;;130,0;2011.01.01;;
+Férfi;EQ;Masters 3;Felhúzás;-66kg;alaprekord;;;;140,0;2011.01.01;;
+Férfi;EQ;Masters 3;Felhúzás;-74kg;alaprekord;;;;150,0;2011.01.01;;
+Férfi;EQ;Masters 3;Felhúzás;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,70;277,5;2011.07.05;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 3;Felhúzás;-93kg;Dr. Újvári Ernő;Flex SE;1948;92,10;200,0;2012.12.08-09;Orosháza;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 3;Felhúzás;-105kg;Lehotai Sándor;Delta TK;1959;100,90;251,0;2019.09.14-15;Sárbogárd;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 3;Felhúzás;-120kg;Standinger István;Flex SE;1950;109,81;230,0;2015.06.05-14;Salo (FIN);Masters RAW Erőemelő Világbajnokság
+Férfi;EQ;Masters 3;Felhúzás;120+kg;alaprekord;;;;200,0;2011.01.01;;
+Férfi;EQ;Masters 4;Összetett;-59kg;;;;;;;;
+Férfi;EQ;Masters 4;Összetett;-66kg;;;;;;;;
+Férfi;EQ;Masters 4;Összetett;-74kg;Varga László;MAFC;1945;69,95;245,0;2016.12.17;Budapest;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 4;Összetett;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,52;605,5;2015.07.14-18;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 4;Összetett;-93kg;Hagymási János;Flex SE;1941;92,20;340,0;2015.05.01-02;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 4;Összetett;-105kg;Hagymási János;Fitness2000;1941;95,40;372,5;2013.09.14;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 4;Összetett;-120kg;Standinger István;Flex SE;1950;109,81;480,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 4;Összetett;120+kg;;;;;;;;
+Férfi;EQ;Masters 4;Guggolás;-59kg;;;;;;;;
+Férfi;EQ;Masters 4;Guggolás;-66kg;;;;;;;;
+Férfi;EQ;Masters 4;Guggolás;-74kg;Varga László;MAFC;1945;69,95;75,0;2016.12.17;Budapest;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 4;Guggolás;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,77;215,0;2016.10.02-08;Tallin (EST);Masters Erőemelő Világbajnokság
+Férfi;EQ;Masters 4;Guggolás;-93kg;Hagymási János;Flex SE;1941;92,20;140,0;2015.05.01-02;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 4;Guggolás;-105kg;Hagymási János;Fitness2000;1941;95,40;140,0;2013.09.14;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 4;Guggolás;-120kg;Standinger István;Flex SE;1950;109,81;150,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 4;Guggolás;120+kg;;;;;;;;
+Férfi;EQ;Masters 4;Fekvenyomás;-59kg;;;;;;;;
+Férfi;EQ;Masters 4;Fekvenyomás;-66kg;;;;;;;;
+Férfi;EQ;Masters 4;Fekvenyomás;-74kg;Varga László;MAFC;1945;69,95;72,5;2016.12.17;Budapest;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 4;Fekvenyomás;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,52;132,5;2015.07.14-18;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 4;Fekvenyomás;-93kg;Mészáros Csaba;MAFC;1944;91,10;85,0;2016.12.17;Budapest;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 4;Fekvenyomás;-105kg;Hagymási János;Fitness2000;1941;95,40;60,0;2013.09.14;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 4;Fekvenyomás;-120kg;Standinger István;Flex SE;1950;109,81;110,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 4;Fekvenyomás;120+kg;;;;;;;;
+Férfi;EQ;Masters 4;Felhúzás;-59kg;;;;;;;;
+Férfi;EQ;Masters 4;Felhúzás;-66kg;;;;;;;;
+Férfi;EQ;Masters 4;Felhúzás;-74kg;Varga László;MAFC;1945;69,05;97,5;2016.10.15;Budapest;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 4;Felhúzás;-83kg;Fábri János;Gyulai Atlasz SE;1945;81,77;260,5;2016.10.02-08;Tallin (EST);Masters Erőemelő Világbajnokság
+Férfi;EQ;Masters 4;Felhúzás;-93kg;Hagymási János;Fitness2000;1941;92,90;170,0;2012.12.08-09;Orosháza;Masters Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 4;Felhúzás;-105kg;Hagymási János;Fitness2000;1941;95,40;172,5;2013.09.14;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;EQ;Masters 4;Felhúzás;-120kg;Standinger István;Flex SE;1950;109,81;220,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Férfi;EQ;Masters 4;Felhúzás;120+kg;;;;;;;;
+Női;EQ;Open;Összetett;-47kg;Lehóczkyné Fawal Margit;Thor-PowerBuilder SE;1988;46,65;325,0;2017.06.03;Tab;Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Open;Összetett;-52kg;Petróczki Magdolna;Body Power;1968;51,43;427,5;2014.09.21-27;Pilsen (CZE);Masters Erőemelő Világbajnokság
+Női;EQ;Open;Összetett;-57kg;Szántó Erika;RKA Erőművek SE;1977;56,70;450,0;2015.09.19;Orosháza;Erőemelő Magyar Bajnokság
+Női;EQ;Open;Összetett;-63kg;Rozsnyai-Kovács Aletta;PowerBuilder SE;1999;62,66;462,5;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Női;EQ;Open;Összetett;-69kg;Sallai Eszter;PowerBuilder SE;2001;68,40;437,5;2021.05.29;Budapest;Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Open;Összetett;-76kg;alaprekord;;;;450,0;2021.04.11;;
+Női;EQ;Open;Összetett;-84kg;Olajos Tünde;RKA Erőművek SE;1989;82,30;507,5;2018.05.06-12;Pilsen (CZE);Erőemelő Európa Bajnokság
+Női;EQ;Open;Összetett;84+kg;Szabó Ágnes;Orosházi Toldi SE;1988;114,56;655,0;2017.05.08-14;Malaga (ESP);Erőemelő Európa Bajnokság
+Női;EQ;Open;Guggolás;-47kg;Lehóczkyné Fawal Margit;Thor-PowerBuilder SE;1988;46,65;120,0;2017.06.03;Tab;Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Open;Guggolás;-52kg;Petróczki Magdolna;Body Power;1968;51,43;162,5;2014.09.21-27;Pilsen (CZE);Masters Erőemelő Világbajnokság
+Női;EQ;Open;Guggolás;-57kg;Szántó Erika;RKA Erőművek SE;1977;56,70;180,0;2015.09.19;Orosháza;Erőemelő Magyar Bajnokság
+Női;EQ;Open;Guggolás;-63kg;Dr. Kiss Anett;RKA Erőművek SE;1976;62,00;165,0;2019.11.02;Budapest;Erőemelő Magyar Bajnokság
+Női;EQ;Open;Guggolás;-69kg;alaprekord;;;;165,0;2021.04.11;;
+Női;EQ;Open;Guggolás;-76kg;alaprekord;;;;180,0;2021.04.11;;
+Női;EQ;Open;Guggolás;-84kg;Olajos Tünde;RKA Erőművek SE;1989;82,30;207,5;2018.05.06-12;Pilsen (CZE);Erőemelő Európa Bajnokság
+Női;EQ;Open;Guggolás;84+kg;Szabó Ágnes;Orosházi Toldi SE;1988;114,99;270,0;2018.05.06-12;Pilsen (CZE);Erőemelő Európa Bajnokság
+Női;EQ;Open;Fekvenyomás;-47kg;alaprekord;;;;100,0;2011.01.01;;
+Női;EQ;Open;Fekvenyomás;-52kg;alaprekord;;;;110,0;2011.01.01;;
+Női;EQ;Open;Fekvenyomás;-57kg;alaprekord;;;;115,0;2011.01.01;;
+Női;EQ;Open;Fekvenyomás;-63kg;alaprekord;;;;120,0;2011.01.01;;
+Női;EQ;Open;Fekvenyomás;-69kg;alaprekord;;;;122,5;2021.04.11;;
+Női;EQ;Open;Fekvenyomás;-76kg;alaprekord;;;;125,0;2021.04.11;;
+Női;EQ;Open;Fekvenyomás;-84kg;Olajos Tünde;RKA Erőművek SE;1989;82,30;140,0;2018.05.06-12;Pilsen (CZE);Erőemelő Európa Bajnokság
+Női;EQ;Open;Fekvenyomás;84+kg;Dr. Lombosi Melinda;RKA Erőművek SE;1978;124,90;200,0;2015.09.19;Orosháza;Erőemelő Magyar Bajnokság
+Női;EQ;Open;Felhúzás;-47kg;Fehér Olívia;Sirius Lifting SE;1991;45,70;140,5;2021.05.29;Budapest;Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Open;Felhúzás;-52kg;Petróczki Magdolna;Body Power;1968;52,00;172,5;2014.10.04-05;Gyula;Erőemelő Magyar Bajnokság
+Női;EQ;Open;Felhúzás;-57kg;Szántó Erika;RKA Erőművek SE;1977;56,70;177,5;2015.09.19;Orosháza;Erőemelő Magyar Bajnokság
+Női;EQ;Open;Felhúzás;-63kg;Dr. Kiss Anett;RKA Erőművek SE;1976;62,00;185,0;2019.11.02.;Budapest;Erőemelő Magyar Bajnokság
+Női;EQ;Open;Felhúzás;-69kg;Sallai Eszter;PowerBuilder SE;2001;68,40;180,0;2021.05.29;Budapest;Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Open;Felhúzás;-76kg;Tóth Enikő;Erőtér SE;1998;74,30;187,5;2021.05.29;Budapest;Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Open;Felhúzás;-84kg;Bak Szilvia;Fortius SE;1971;82,95;175,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Open;Felhúzás;84+kg;Szabó Ágnes;Orosházi Toldi SE;1988;114,56;205,0;2017.05.08-14;Malaga (ESP);Erőemelő Európa Bajnokság
+Női;EQ;Ifjúsági;Összetett;-43kg;alaprekord;;;;220,0;2011.01.01;;
+Női;EQ;Ifjúsági;Összetett;-47kg;alaprekord;;;;250,0;2011.01.01;;
+Női;EQ;Ifjúsági;Összetett;-52kg;alaprekord;;;;280,0;2011.01.01;;
+Női;EQ;Ifjúsági;Összetett;-57kg;Erdelecz Evelin;Barcsi VSE;1997;56,80;302,5;2015.10.24;Győr;Ifi Junior Erőemelő Magyar Bajnokság
+Női;EQ;Ifjúsági;Összetett;-63kg;alaprekord;;;;320,0;2011.01.01;;
+Női;EQ;Ifjúsági;Összetett;-69kg;alaprekord;;;;350,0;2021.04.11;;
+Női;EQ;Ifjúsági;Összetett;-76kg;alaprekord;;;;400,0;2021.04.11;;
+Női;EQ;Ifjúsági;Összetett;-84kg;Cseh Zita;Orosházi Toldi SE;1995;73,05;427,5;2011.10.07-09;Budapest;Ifi Erőemelő Magyar Bajnokság
+Női;EQ;Ifjúsági;Összetett;84+kg;Vajda Fanni;RKA Erőművek SE;1997;106,66;467,5;2015.08.31-09.06;Prága (CZE);Ifi Junior Erőemelő Világbajnokság
+Női;EQ;Ifjúsági;Guggolás;-43kg;alaprekord;;;;60,0;2011.01.01;;
+Női;EQ;Ifjúsági;Guggolás;-47kg;alaprekord;;;;90,0;2011.01.01;;
+Női;EQ;Ifjúsági;Guggolás;-52kg;alaprekord;;;;95,0;2011.01.01;;
+Női;EQ;Ifjúsági;Guggolás;-57kg;Erdelecz Evelin;Barcsi VSE;1997;56,80;110,0;2015.10.24;Győr;Ifi Junior Erőemelő Magyar Bajnokság
+Női;EQ;Ifjúsági;Guggolás;-63kg;Nagy Nikolett;Orosházi Toldi SE;1999;57,80;120,0;2014.10.04-05;Gyula;Ifi Junior Erőemelő Magyar Bajnokság
+Női;EQ;Ifjúsági;Guggolás;-69kg;alaprekord;;;;135,0;2021.04.11;;
+Női;EQ;Ifjúsági;Guggolás;-76kg;alaprekord;;;;150,0;2021.04.11;;
+Női;EQ;Ifjúsági;Guggolás;-84kg;Cseh Zita;Orosházi Toldi SE;1995;73,05;170,0;2011.10.07-09;Budapest;Ifi Erőemelő Magyar Bajnokság
+Női;EQ;Ifjúsági;Guggolás;84+kg;Vajda Fanni;RKA Erőművek SE;1997;106,66;190,0;2015.08.31-09.06;Prága (CZE);Ifi Junior Erőemelő Világbajnokság
+Női;EQ;Ifjúsági;Fekvenyomás;-43kg;alaprekord;;;;60,0;2011.01.01;;
+Női;EQ;Ifjúsági;Fekvenyomás;-47kg;alaprekord;;;;65,0;2011.01.01;;
+Női;EQ;Ifjúsági;Fekvenyomás;-52kg;alaprekord;;;;70,0;2011.01.01;;
+Női;EQ;Ifjúsági;Fekvenyomás;-57kg;alaprekord;;;;75,0;2011.01.01;;
+Női;EQ;Ifjúsági;Fekvenyomás;-63kg;alaprekord;;;;80,0;2011.01.01;;
+Női;EQ;Ifjúsági;Fekvenyomás;-69kg;alaprekord;;;;82,5;2021.04.11;;
+Női;EQ;Ifjúsági;Fekvenyomás;-76kg;alaprekord;;;;87,5;2021.04.11;;
+Női;EQ;Ifjúsági;Fekvenyomás;-84kg;Cseh Zita;Orosházi Toldi SE;1995;73,05;105,0;2011.10.07-09;Budapest;Ifi Erőemelő Magyar Bajnokság
+Női;EQ;Ifjúsági;Fekvenyomás;84+kg;Vajda Fanni;RKA Erőművek SE;1997;109,80;120,5;2015.10.24;Győr;Ifi Junior Erőemelő Magyar Bajnokság
+Női;EQ;Ifjúsági;Felhúzás;-43kg;alaprekord;;;;90,0;2011.01.01;;
+Női;EQ;Ifjúsági;Felhúzás;-47kg;alaprekord;;;;95,0;2011.01.01;;
+Női;EQ;Ifjúsági;Felhúzás;-52kg;alaprekord;;;;100,0;2011.01.01;;
+Női;EQ;Ifjúsági;Felhúzás;-57kg;Erdelecz Evelin;Barcsi VSE;1997;56,80;122,5;2015.10.24;Győr;Ifi Junior Erőemelő Magyar Bajnokság
+Női;EQ;Ifjúsági;Felhúzás;-63kg;Kirilla Szilvia;Familya SC;1993;61,95;152,5;2011.10.07-09;Budapest;Ifi Erőemelő Magyar Bajnokság
+Női;EQ;Ifjúsági;Felhúzás;-69kg;alaprekord;;;;140,0;2021.04.11;;
+Női;EQ;Ifjúsági;Felhúzás;-76kg;alaprekord;;;;150,0;2021.04.11;;
+Női;EQ;Ifjúsági;Felhúzás;-84kg;Haklik Dorottya;Orosházi Toldi SE;1996;81,50;162,5;2013.12.14-15;Budapest;Ifi Erőemelő Magyar Bajnokság
+Női;EQ;Ifjúsági;Felhúzás;84+kg;Vajda Fanni;RKA Erőművek SE;1997;109,03;175,0;2015.09.26;Madrid (ESP);Arnold Classic Europe
+Női;EQ;Junior;Összetett;-43kg;alaprekord;;;;250,0;2011.01.01;;
+Női;EQ;Junior;Összetett;-47kg;alaprekord;;;;280,0;2011.01.01;;
+Női;EQ;Junior;Összetett;-52kg;Csatlós Klaudia;RKA Erőművek SE;1990;50,85;330,0;2013.09.28;Győrszentiván;Junior Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Összetett;-57kg;alaprekord;;;;350,0;2011.01.01;;
+Női;EQ;Junior;Összetett;-63kg;Rozsnyai-Kovács Aletta;PowerBuilder SE;1999;62,66;462,5;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Női;EQ;Junior;Összetett;-69kg;Sallai Eszter;PowerBuilder SE;2001;68,40;437,5;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Összetett;-76kg;Tóth Enikő;Erőtér SE;1998;74,30;423,0;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Összetett;-84kg;Cseh Zita;Orosházi Toldi SE;1995;73,05;427,5;2011.10.07-09;Budapest;Junior Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Összetett;84+kg;Köteles Mária;DEO Szeged;1990;142,90;570,0;2015.04.07-11;Orosháza;Ifi Junior Erőemelő Európa Bajnokság
+Női;EQ;Junior;Guggolás;-43kg;Somogyi Edina;Attila Fitness SE;1991;42,90;85,0;2014.09.01-06;Orosháza;Ifi Junior Erőemelő Világbajnokság
+Női;EQ;Junior;Guggolás;-47kg;Hajnal Petra;RKA Erőművek SE;1995;46,30;103,0;2014.10.04-05;Gyula;Ifi Junior Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Guggolás;-52kg;Csatlós Klaudia;RKA Erőművek SE;1990;50,85;122,5;2013.09.28;Győrszentiván;Junior Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Guggolás;-57kg;Kovács-Györkös Melánia;Orosházi Toldi SE;1998;54,85;135,5;2021.11.06;Orosháza;Junior Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Guggolás;-63kg;Rozsnyai-Kovács Aletta;Vasdisznó Erőemelő SE;1999;62,66;162,5;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Női;EQ;Junior;Guggolás;-69kg;Sallai Eszter;PowerBuilder SE;2001;68,40;160,0;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Guggolás;-76kg;alaprekord;;;;160,0;2021.04.11;;
+Női;EQ;Junior;Guggolás;-84kg;Cseh Zita;Orosházi Toldi SE;1995;73,05;170,0;2011.10.07-09;Budapest;Junior Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Guggolás;84+kg;Köteles Mária;DEO Szeged;1992;138,30;220,0;2014.09.01-06;Orosháza;Ifi Junior Erőemelő Világbajnokság
+Női;EQ;Junior;Fekvenyomás;-43kg;alaprekord;;;;80,0;2011.01.01;;
+Női;EQ;Junior;Fekvenyomás;-47kg;alaprekord;;;;85,0;2011.01.01;;
+Női;EQ;Junior;Fekvenyomás;-52kg;alaprekord;;;;90,0;2011.01.01;;
+Női;EQ;Junior;Fekvenyomás;-57kg;alaprekord;;;;95,0;2011.01.01;;
+Női;EQ;Junior;Fekvenyomás;-63kg;Rozsnyai-Kovács Aletta;Vasdisznó Erőemelő SE;1999;62,66;120,0;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Női;EQ;Junior;Fekvenyomás;-69kg;alaprekord;;;;100,0;2021.04.11;;
+Női;EQ;Junior;Fekvenyomás;-76kg;alaprekord;;;;105,0;2021.04.11;;
+Női;EQ;Junior;Fekvenyomás;-84kg;Olajos Tünde;RKA Erőművek SE;1989;77,70;115,0;2011.10.07-09;Budapest;Junior Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Fekvenyomás;84+kg;Szabó Ágnes;Orosházi Toldi SE;1988;102,74;182,5;2011.11.08-13;Pilsen (CZE);Junior Erőemelő Világbajnokság
+Női;EQ;Junior;Felhúzás;-43kg;Somogyi Edina;Attila Fitness SE;1991;42,90;95,0;2014.09.01-06;Orosháza;Ifi Junior Erőemelő Világbajnokság
+Női;EQ;Junior;Felhúzás;-47kg;Horváth Fanni;BEAC;1994;45,60;105,0;2017.04.30;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Felhúzás;-52kg;Csatlós Klaudia;RKA Erőművek SE;1990;50,85;142,5;2013.09.28;Győrszentiván;Junior Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Felhúzás;-57kg;Bécsi Barbara;Marvel Team SE;2002;56,20;150,0;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Felhúzás;-63kg;Rozsnyai-Kovács Aletta;PowerBuilder SE;1999;62,66;180,0;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Női;EQ;Junior;Felhúzás;-69kg;Sallai Eszter;PowerBuilder SE;2001;68,40;180,0;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Felhúzás;-76kg;Tóth Enikő;Erőtér SE;1998;74,30;187,5;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Felhúzás;-84kg;Haklik Dorottya;Orosházi Toldi SE;1996;81,50;162,5;2013.12.14-15;Budapest;Junior Erőemelő Magyar Bajnokság
+Női;EQ;Junior;Felhúzás;84+kg;Köteles Mária;DEO Szeged;1992;144,01;200,0;2015.06.05-14;Salo (FIN);Junior RAW Erőemelő Világbajnokság
+Női;EQ;Masters 1;Összetett;-47kg;alaprekord;;;;300,0;2011.01.01;;
+Női;EQ;Masters 1;Összetett;-52kg;Petróczki Magdolna;Body Power;1968;51,43;427,5;2014.09.21-27;Pilsen (CZE);Masters Erőemelő Világbajnokság
+Női;EQ;Masters 1;Összetett;-57kg;Petróczki Magdolna;Body Power;1968;53,85;410,0;2016.12.17;Budapest;Masters Erőemelő Magyar Bajnokság
+Női;EQ;Masters 1;Összetett;-63kg;Dr. Kiss Anett;RKA Erőművek SE;1976;62,35;402,5;2017.10.14-15;Budapest;Masters Erőemelő Magyar Bajnokság
+Női;EQ;Masters 1;Összetett;-69kg;alaprekord;;;;320,0;2021.04.11;;
+Női;EQ;Masters 1;Összetett;-76kg;alaprekord;;;;350,0;2021.04.11;;
+Női;EQ;Masters 1;Összetett;-84kg;Bak Szilvia;Fortius SE;1971;82,95;400,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 1;Összetett;84+kg;Dr. Lombosi Melinda;RKA Erőművek SE;1978;132,36;539,5;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 1;Guggolás;-47kg;alaprekord;;;;70,0;2011.01.01;;
+Női;EQ;Masters 1;Guggolás;-52kg;Petróczki Magdolna;Body Power;1968;51,43;162,5;2014.09.21-27;Pilsen (CZE);Masters Erőemelő Világbajnokság
+Női;EQ;Masters 1;Guggolás;-57kg;Petróczki Magdolna;Body Power;1968;53,85;150,0;2016.12.17;Budapest;Masters Erőemelő Magyar Bajnokság
+Női;EQ;Masters 1;Guggolás;-63kg;Dr. Kiss Anett;RKA Erőművek SE;1976;62,00;165,0;2019.11.02;Budapest;Masters Erőemelő Magyar Bajnokság
+Női;EQ;Masters 1;Guggolás;-69kg;alaprekord;;;;140,0;2021.04.11;;
+Női;EQ;Masters 1;Guggolás;-76kg;alaprekord;;;;150,0;2021.04.11;;
+Női;EQ;Masters 1;Guggolás;-84kg;alaprekord;;;;155,0;2011.01.01;;
+Női;EQ;Masters 1;Guggolás;84+kg;Dr. Lombosi Melinda;RKA Erőművek SE;1978;132,36;203,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 1;Fekvenyomás;-47kg;alaprekord;;;;70,0;2011.01.01;;
+Női;EQ;Masters 1;Fekvenyomás;-52kg;Nyers Mónika;Tabi Fitness Klub SE;1978;50,00;98,0;2021.05.29;Budapest;Masters Női RAW Erőemelő Magyar Bajnokság
+Női;EQ;Masters 1;Fekvenyomás;-57kg;Salamon Erika;Tabi Fitness Klub SE;1974;56,10;100,5;2019.09.14;Sárbogárd;Masters RAW Erőemelő Magyar Bajnokság
+Női;EQ;Masters 1;Fekvenyomás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;59,90;97,5;2012.12.08-09;Orosháza;Masters Erőemelő Magyar Bajnokság
+Női;EQ;Masters 1;Fekvenyomás;-69kg;alaprekord;;;;85,0;2021.04.11;;
+Női;EQ;Masters 1;Fekvenyomás;-76kg;alaprekord;;;;90,0;2021.04.11;;
+Női;EQ;Masters 1;Fekvenyomás;-84kg;alaprekord;;;;95,0;2011.01.01;;
+Női;EQ;Masters 1;Fekvenyomás;84+kg;Dr. Lombosi Melinda;RKA Erőművek SE;1978;136,55;143,0;2018.11.24-12.02;Kaunas (LTU);RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 1;Felhúzás;-47kg;alaprekord;;;;80,0;2011.01.01;;
+Női;EQ;Masters 1;Felhúzás;-52kg;Petróczki Magdolna;Body Power;1968;52,00;172,5;2014.10.04-05;Gyula;Masters Erőemelő Magyar Bajnokság
+Női;EQ;Masters 1;Felhúzás;-57kg;Petróczki Magdolna;Body Power;1968;53,85;165,0;2016.12.17;Budapest;Masters Erőemelő Magyar Bajnokság
+Női;EQ;Masters 1;Felhúzás;-63kg;Dr. Kiss Anett;RKA Erőművek SE;1976;62,00;185,0;2019.11.02;Budapest;Masters Erőemelő Magyar Bajnokság
+Női;EQ;Masters 1;Felhúzás;-69kg;alaprekord;;;;145,0;2021.04.11;;
+Női;EQ;Masters 1;Felhúzás;-76kg;alaprekord;;;;155,0;2021.04.11;;
+Női;EQ;Masters 1;Felhúzás;-84kg;Bak Szilvia;Fortius SE;1971;82,95;175,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 1;Felhúzás;84+kg;Dr. Lombosi Melinda;RKA Erőművek SE;1978;137,00;192,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 2;Összetett;-47kg;;;;;;;;
+Női;EQ;Masters 2;Összetett;-52kg;Petróczki Magdolna;RKA Erőművek SE;1968;51,15;357,5;2018.03.06-11;Helsingborg (SWE);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 2;Összetett;-57kg;;;;;;;;
+Női;EQ;Masters 2;Összetett;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,90;335,0;2012.04.14-15;Orosháza;Masters Erőemelő Magyar Bajnokság
+Női;EQ;Masters 2;Összetett;-69kg;;;;;;;;
+Női;EQ;Masters 2;Összetett;-76kg;;;;;;;;
+Női;EQ;Masters 2;Összetett;-84kg;Bak Szilvia;Fortius SE;1971;82,95;400,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 2;Összetett;84+kg;Fazekas Andrea;Fortius SE;1966;103,69;350,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 2;Guggolás;-47kg;;;;;;;;
+Női;EQ;Masters 2;Guggolás;-52kg;Petróczki Magdolna;RKA Erőművek SE;1968;51,20;120,0;2019.11.02;Budapest;Masters Erőemelő Magyar Bajnokság
+Női;EQ;Masters 2;Guggolás;-57kg;;;;;;;;
+Női;EQ;Masters 2;Guggolás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;59,11;110,0;2011.07.05;Pilsen (CZE);Masters Erőemelő Európa Bajnokság
+Női;EQ;Masters 2;Guggolás;-69kg;;;;;;;;
+Női;EQ;Masters 2;Guggolás;-76kg;;;;;;;;
+Női;EQ;Masters 2;Guggolás;-84kg;Bak Szilvia;Fortius SE;1971;82,95;135,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 2;Guggolás;84+kg;Fazekas Andrea;Fortius SE;1966;103,69;122,5;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 2;Fekvenyomás;-47kg;;;;;;;;
+Női;EQ;Masters 2;Fekvenyomás;-52kg;Petróczki Magdolna;RKA Erőművek SE;1968;51,20;82,5;2019.11.02;Budapest;Masters Erőemelő Magyar Bajnokság
+Női;EQ;Masters 2;Fekvenyomás;-57kg;;;;;;;;
+Női;EQ;Masters 2;Fekvenyomás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;59,90;97,5;2012.12.08-09;Orosháza;Masters Erőemelő Magyar Bajnokság
+Női;EQ;Masters 2;Fekvenyomás;-69kg;;;;;;;;
+Női;EQ;Masters 2;Fekvenyomás;-76kg;;;;;;;;
+Női;EQ;Masters 2;Fekvenyomás;-84kg;Bak Szilvia;Fortius SE;1971;82,95;90,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 2;Fekvenyomás;84+kg;Fazekas Andrea;Fortius SE;1966;103,69;75,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 2;Felhúzás;-47kg;;;;;;;;
+Női;EQ;Masters 2;Felhúzás;-52kg;Petróczki Magdolna;RKA Erőművek SE;1968;51,50;142,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 2;Felhúzás;-57kg;;;;;;;;
+Női;EQ;Masters 2;Felhúzás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,20;135,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 2;Felhúzás;-69kg;;;;;;;;
+Női;EQ;Masters 2;Felhúzás;-76kg;;;;;;;;
+Női;EQ;Masters 2;Felhúzás;-84kg;Bak Szilvia;Fortius SE;1971;82,95;175,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 2;Felhúzás;84+kg;Fazekas Andrea;Fortius SE;1966;103,69;152,5;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 3;Összetett;-47kg;alaprekord;;;;220,0;2011.01.01;;
+Női;EQ;Masters 3;Összetett;-52kg;alaprekord;;;;235,0;2011.01.01;;
+Női;EQ;Masters 3;Összetett;-57kg;alaprekord;;;;245,0;2011.01.01;;
+Női;EQ;Masters 3;Összetett;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,20;327,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 3;Összetett;-69kg;alaprekord;;;;275,0;2021.04.11;;
+Női;EQ;Masters 3;Összetett;-76kg;alaprekord;;;;300,0;2021.04.11;;
+Női;EQ;Masters 3;Összetett;-84kg;alaprekord;;;;315,0;2011.01.01;;
+Női;EQ;Masters 3;Összetett;84+kg;alaprekord;;;;330,0;2011.01.01;;
+Női;EQ;Masters 3;Guggolás;-47kg;alaprekord;;;;50,0;2011.01.01;;
+Női;EQ;Masters 3;Guggolás;-52kg;alaprekord;;;;60,0;2011.01.01;;
+Női;EQ;Masters 3;Guggolás;-57kg;alaprekord;;;;65,0;2011.01.01;;
+Női;EQ;Masters 3;Guggolás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,20;102,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 3;Guggolás;-69kg;alaprekord;;;;85,0;2021.04.11;;
+Női;EQ;Masters 3;Guggolás;-76kg;alaprekord;;;;95,0;2021.04.11;;
+Női;EQ;Masters 3;Guggolás;-84kg;alaprekord;;;;80,0;2011.01.01;;
+Női;EQ;Masters 3;Guggolás;84+kg;alaprekord;;;;85,0;2011.01.01;;
+Női;EQ;Masters 3;Fekvenyomás;-47kg;alaprekord;;;;55,0;2011.01.01;;
+Női;EQ;Masters 3;Fekvenyomás;-52kg;alaprekord;;;;60,0;2011.01.01;;
+Női;EQ;Masters 3;Fekvenyomás;-57kg;alaprekord;;;;65,0;2011.01.01;;
+Női;EQ;Masters 3;Fekvenyomás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,20;90,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 3;Fekvenyomás;-69kg;alaprekord;;;;70,0;2021.04.11;;
+Női;EQ;Masters 3;Fekvenyomás;-76kg;alaprekord;;;;75,0;2021.04.11;;
+Női;EQ;Masters 3;Fekvenyomás;-84kg;alaprekord;;;;80,0;2011.01.01;;
+Női;EQ;Masters 3;Fekvenyomás;84+kg;alaprekord;;;;85,0;2011.01.01;;
+Női;EQ;Masters 3;Felhúzás;-47kg;alaprekord;;;;70,0;2011.01.01;;
+Női;EQ;Masters 3;Felhúzás;-52kg;alaprekord;;;;80,0;2011.01.01;;
+Női;EQ;Masters 3;Felhúzás;-57kg;alaprekord;;;;90,0;2011.01.01;;
+Női;EQ;Masters 3;Felhúzás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,20;135,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;EQ;Masters 3;Felhúzás;-69kg;alaprekord;;;;105,0;2021.04.11;;
+Női;EQ;Masters 3;Felhúzás;-76kg;alaprekord;;;;110,0;2021.04.11;;
+Női;EQ;Masters 3;Felhúzás;-84kg;alaprekord;;;;115,0;2011.01.01;;
+Női;EQ;Masters 3;Felhúzás;84+kg;alaprekord;;;;120,0;2011.01.01;;
+Férfi;RAW;Open;Összetett;-59kg;Barátosi Levente;BEAC;1997;58,15;410,0;2018.04.27-29;Kisbér;RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Összetett;-66kg;Veres Ádám;Mérk Kinizsi SE;1996;65,95;572,5;2018.11.24-12.02;Kaunas (LTU);RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Open;Összetett;-74kg;Posta Krisztián;Vitalitás SE;2000;73,80;600,0;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Férfi;RAW;Open;Összetett;-83kg;Kulcsár Dávid;Popeye Power Nyíregyháza;1995;82,74;662,5;2015.03.21-28;Pilsen (CZE);RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Open;Összetett;-93kg;Fekete Miklós;Sirius Lifting SE;1973;92,65;767,5;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Open;Összetett;-105kg;Kulcsár Dávid;KeletEreje Nyíregyháza;1995;102,90;835,5;2020.09.12-13;Szombathely;RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Összetett;-120kg;Bereczki Szilárd;Sirius Lifting SE;1999;111,20;805,0;2021.08.28;Baja;II.o RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Összetett;120+kg;Seres Zoltán;KeletEreje Nyíregyháza;1995;129,40;855,0;2018.11.24-12.02;Kaunas (LTU);RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Open;Guggolás;-59kg;Barátosi Levente;BEAC;1997;58,15;142,5;2018.04.27-29;Kisbér;RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Guggolás;-66kg;Veres Ádám;Mérk Kinizsi SE;1996;65,60;202,5;2019.07.22-27;Tartu (EST);Egyetemi és Főiskolai Erőemelő Bajnokság
+Férfi;RAW;Open;Guggolás;-74kg;Pásztor Tamás;PowerBuilder SE;1986;72,70;215,0;2021.06.26;Budapest;Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Guggolás;-83kg;Susa Dávid;Vasdisznó Erőemelő SE;1990;82,80;243,0;2018.10.06-07;Orosháza;RAW Erőemelő Csapatbajnokság
+Férfi;RAW;Open;Guggolás;-93kg;Horváth Péter;MAFC;1991;92,70;275,0;2021.06.26;Budapest;Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Guggolás;-105kg;Kulcsár Dávid;KeletEreje Nyíregyháza;1995;102,90;317,5;2020.09.12-13;Szombathely;RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Guggolás;-120kg;Pánisz László;Hajdúszoboszlói BSE;1972;117,95;295,0;2017.06.15-25;Minszk (BLR);RAW Erőemelő Világbajnokság
+Férfi;RAW;Open;Guggolás;120+kg;Bana Milán;Hajdúszoboszlói BSE;1998;149,40;307,5;2021.09.28;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Férfi;RAW;Open;Fekvenyomás;-59kg;Orosi Tamás;Mérk Kinizsi SE;1996;57,70;100,5;2016.10.22;Zalaegerszeg;Junior RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Fekvenyomás;-66kg;Veres Ádám;Mérk Kinizsi SE;1996;65,95;145,0;2018.11.24-12.02;Kaunas (LTU);RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Open;Fekvenyomás;-74kg;Szívós Ádám;Marvel Team SE;1992;74,00;157,5;2016.04.27-29;Kisbér;RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Fekvenyomás;-83kg;Konrád Gergely;Barcsi VSE;1992;82,10;170,0;2015.05.01-02;Tab;Junior RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Fekvenyomás;-93kg;Brezina András;Sirius Lifting SE;1995;91,10;191,0;2021.06.26;Budapest;Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Fekvenyomás;-105kg;Kulcsár Dávid;KeletEreje Nyíregyháza;1995;102,90;218,0;2020.09.12-13;Szombathely;RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Fekvenyomás;-120kg;Schauer Kornél;Sugó Power SE;1977;118,90;230,0;2014.05.16-18;Tab;Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Fekvenyomás;120+kg;Havai Viktor;Sebi Gym SE;1981;150,00;235,0;2013.09.14;Tab;Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Felhúzás;-59kg;Nagy Viktor;Herkules SE;1995;54,60;176,0;2019.06.22-23;Ászár;RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Felhúzás;-66kg;Somodi Vince;Jászladányi Egyetértés SE;1995;65,50;231,0;2021.06.26;Budapest;Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Felhúzás;-74kg;Posta Krisztián;Vitalitás SE;2000;73,80;250,0;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Férfi;RAW;Open;Felhúzás;-83kg;Viski Ferenc;Sebi Gym SE;1994;81,70;276,0;2020.09.12-13;Szombathely;RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Felhúzás;-93kg;Fekete Miklós;Sirius Lifting SE;1973;92,65;310,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Open;Felhúzás;-105kg;Hegedűs Áron;Westfit Gym SE;1996;103,22;332,5;2021.10.02;Halmstad (SWE);RAW Erőemelő Világbajnokság
+Férfi;RAW;Open;Felhúzás;-120kg;Pánisz László;Hajdúszoboszlói BSE;1972;118,00;315,5;2016.05.01;Tab;RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Open;Felhúzás;120+kg;Seres Zoltán;KeletEreje Nyíregyháza;1995;129,40;332,5;2018.11.24-12.02;Kaunas (LTU);RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Ifjúsági;Összetett;-53kg;Orosi Tamás;Mérk Kinizsi SE;1996;50,50;345,0;2013.09.14;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Összetett;-59kg;Somodi Vince;Jászladányi Egyetértés SE;1995;57,90;385,0;2012.03.31;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Összetett;-66kg;Posta Krisztián;Vitalitás Balassagyarmat;2000;64,50;450,5;2018.10.06;Orosháza;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Összetett;-74kg;Rácz Dávid;Mérk Kinizsi SE;1996;73,45;536,0;2014.05.16-18;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Összetett;-83kg;Havai Patrik;Sebi Gym SE;2001;81,80;575,0;2019.09.14-15;Sárbogárd;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Összetett;-93kg;Susa Olivér;Vasdisznó SE;2004;93,00;702,0;2021.09.28;Halmstad (SWE);Ifi RAW Erőemelő Világbajnokság
+Férfi;RAW;Ifjúsági;Összetett;-105kg;Szászi Milán;Orosházi Toldi SE;1997;96,05;612,5;2015.05.01-02;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Összetett;-120kg;Kandrák Patrik;KeletEreje Nyíregyháza;1999;118,20;605,0;2017.11.25-26;Kisbér;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Összetett;120+kg;Horváth Mátyás;Hagymagym ZSE;2003;171,34;597,5;2021.09.28;Halmstad (SWE);Ifi RAW Erőemelő Világbajnokság
+Férfi;RAW;Ifjúsági;Guggolás;-53kg;Terebesi Ákos;Ózdi SFC;2004;58,75;133,0;2017.11.25-26;Kisbér;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Guggolás;-59kg;Somodi Vince;Jászladányi Egyetértés SE;1995;57,90;130,0;2012.03.31;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Guggolás;-66kg;Posta Krisztián;Vitalitás Balassagyarmat;2000;64,50;155,5;2018.10.06;Orosháza;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Guggolás;-74kg;Szabó Balázs;Békéscsabai SSZE;2003;70,60;180,5;2021.06.26;Budapest;Ifi Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Guggolás;-83kg;Olej Roland;Westfit Gym SE;2004;82,90;203,0;2021.06.26;Budapest;Ifi Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Guggolás;-93kg;Susa Olivér;Vasdisznó SE;2004;93,00;250,0;2021.09.28;Halmstad (SWE);Ifi RAW Erőemelő Világbajnokság
+Férfi;RAW;Ifjúsági;Guggolás;-105kg;Ungai Olivér;Hajdúszoboszlói BSE;1998;103,85;220,0;2016.10.15;Budapest;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Guggolás;-120kg;Kandrák Patrik;KeletEreje Nyíregyháza;1999;118,20;215,0;2017.11.25-26;Kisbér;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Guggolás;120+kg;Horváth Mátyás Kolos;Hagymagym ZSE;2003;171,34;227,5;2021.09.28;Halmstad (SWE);Ifi RAW Erőemelő Világbajnokság
+Férfi;RAW;Ifjúsági;Fekvenyomás;-53kg;Orosi Tamás;Mérk Kinizsi SE;1996;50,50;95,0;2013.09.14;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Fekvenyomás;-59kg;Orosi Tamás;Mérk Kinizsi SE;1996;53,80;100,0;2014.05.16-18;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Fekvenyomás;-66kg;Tóth Richárd;Vitalitás SE;1996;64,55;110,0;2014.05.16-18;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Fekvenyomás;-74kg;Rácz Dávid;Mérk Kinizsi SE;1996;73,20;150,0;2013.09.14;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Fekvenyomás;-83kg;Olej Roland;Westfit Gym SE;2004;82,90;140,5;2021.06.26;Budapest;Ifi Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Fekvenyomás;-93kg;Susa Olivér;Vasdisznó SE;2004;93,00;187,0;2021.09.28;Halmstad (SWE);Ifi RAW Erőemelő Világbajnokság
+Férfi;RAW;Ifjúsági;Fekvenyomás;-105kg;Szászi Milán;Orosházi Toldi SE;1997;96,05;172,5;2015.05.01-02;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Fekvenyomás;-120kg;Havrán Róbert;RKA Erőművek SE;2000;105,10;157,5;2017.04.30;Budapest;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Fekvenyomás;120+kg;Horváth Mátyás Kolos;Hagymagym ZSE;2003;171,34;122,5;2021.09.28;Halmstad (SWE);Ifi RAW Erőemelő Világbajnokság
+Férfi;RAW;Ifjúsági;Felhúzás;-53kg;Orosi Tamás;Mérk Kinizsi SE;1996;50,50;145,0;2013.09.14;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Felhúzás;-59kg;Somodi Vince;Jászladányi Egyetértés SE;1995;57,90;170,0;2012.03.31;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Felhúzás;-66kg;Somodi Vince;Jászladányi Egyetértés SE;1995;62,55;205,0;2013.09.14;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Felhúzás;-74kg;Nagy Zoltán;Tabi Fitness Klub SE;2004;71,50;230,0;2021.06.26;Budapest;Ifi Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Felhúzás;-83kg;Havai Patrik;Sebi Gym SE Isaszeg;2001;81,80;232,5;2019.09.14-15;Sárbogárd;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Felhúzás;-93kg;Susa Olivér;Vasdisznó SE;2004;93,00;265,0;2021.09.28;Halmstad (SWE);Ifi RAW Erőemelő Világbajnokság
+Férfi;RAW;Ifjúsági;Felhúzás;-105kg;Ungai Olivér;Hajdúszoboszlói BSE;1998;103,85;241,0;2016.10.15;Budapest;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Felhúzás;-120kg;Kandrák Patrik;KeletEreje Nyíregyháza;1999;118,20;260,0;2017.11.25-26;Kisbér;Ifi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Ifjúsági;Felhúzás;120+kg;Horváth Mátyás Kolos;Hagymagym ZSE;2003;171,34;247,5;2021.09.28;Halmstad (SWE);Ifi RAW Erőemelő Világbajnokság
+Férfi;RAW;Junior;Összetett;-53kg;Orosi Tamás;Mérk Kinizsi SE;1996;50,50;345,0;2013.09.14;Tab;Junior RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Junior;Összetett;-59kg;Barátosi Levente;BEAC;1997;58,15;410,0;2018.04.27-29;Kisbér;Junior RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Junior;Összetett;-66kg;Veres Ádám;Mérk Kinizsi SE;1996;65,95;572,5;2018.11.24-12.02;Kaunas (LTU);Junior RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Junior;Összetett;-74kg;Posta Krisztián;Vitalitás SE;2000;73,80;600,0;2021.09.27;Halmstad (SWE);Junior RAW Erőemelő Világbajnokság
+Férfi;RAW;Junior;Összetett;-83kg;Kulcsár Dávid;Popeye Power Nyíregyháza;1995;82,74;662,5;2015.03.21-28;Pilsen (CZE);Junior RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Junior;Összetett;-93kg;Kulcsár Dávid;KeletEreje Nyíregyháza;1995;92,27;765,0;2017.06.15-25;Minszk (BLR);Junior RAW Erőemelő Világbajnokság
+Férfi;RAW;Junior;Összetett;-105kg;Hegedűs Áron;Westfit Gym SE;1996;104,40;807,5;2019.11.29-12.08;Kaunas (LTU);Junior RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Junior;Összetett;-120kg;Bereczki Szilárd;Sirius Lifting SE;1999;111,20;805,0;2021.08.28;Baja;II.o RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Junior;Összetett;120+kg;Seres Zoltán;KeletEreje Nyíregyháza;1995;129,40;855,0;2018.11.24-12.02;Kaunas (LTU);Junior RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Junior;Guggolás;-53kg;Orosi Tamás;Mérk Kinizsi SE;1996;50,50;105,0;2013.09.14;Tab;Junior RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Junior;Guggolás;-59kg;Barátosi Levente;BEAC;1997;58,15;142,5;2018.04.27-29;Kisbér;Junior RAW Erőemelő Csapatbajnokság
+Férfi;RAW;Junior;Guggolás;-66kg;Veres Ádám;Mérk Kinizsi SE;1996;65,60;202,5;2019.07.22-27;Tartu (EST);Egyetemi és Főiskolai Erőemelő Bajnokság
+Férfi;RAW;Junior;Guggolás;-74kg;Posta Krisztián;Vitalitás SE;2000;73,80;215,0;2021.09.27;Halmstad (SWE);Junior RAW Erőemelő Világbajnokság
+Férfi;RAW;Junior;Guggolás;-83kg;Kulcsár Dávid;Popeye Power Nyíregyháza;1995;82,74;242,5;2015.03.21-28;Pilsen (CZE);Junior RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Junior;Guggolás;-93kg;Kulcsár Dávid;KeletEreje Nyíregyháza;1995;92,27;272,5;2017.06.15-25;Minszk (BLR);Junior RAW Erőemelő Világbajnokság
+Férfi;RAW;Junior;Guggolás;-105kg;Hegedűs Áron;Westfit Gym SE;1996;104,40;297,5;2019.11.29-12.08;Kaunas (LTU);Junior RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Junior;Guggolás;-120kg;Bereczki Szilárd;Sirius Lifting SE;1999;111,20;290,0;2021.08.28;Baja;II.o RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Junior;Guggolás;120+kg;Bana Milán;Hajdúszoboszlói BSE;1998;149,40;307,5;2021.09.28;Halmstad (SWE);Junior RAW Erőemelő Világbajnokság
+Férfi;RAW;Junior;Fekvenyomás;-53kg;Orosi Tamás;Mérk Kinizsi SE;1996;50,50;95,0;2013.09.14;Tab;Junior RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Junior;Fekvenyomás;-59kg;Orosi Tamás;Mérk Kinizsi SE;1996;57,70;100,5;2016.10.22;Zalaegerszeg;Junior RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Junior;Fekvenyomás;-66kg;Veres Ádám;Mérk Kinizsi SE;1996;65,95;145,0;2018.11.24-12.02;Kaunas (LTU);Junior RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Junior;Fekvenyomás;-74kg;Rácz Dávid;Mérk Kinizsi SE;1996;73,65;156,0;2015.05.01-02;Tab;Junior RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Junior;Fekvenyomás;-83kg;Konrád Gergely;Barcsi VSE;1992;82,10;170,0;2015.05.01-02;Tab;Junior RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Junior;Fekvenyomás;-93kg;Kulcsár Dávid;KeletEreje Nyíregyháza;1995;92,27;190,0;2017.06.15-25;Minszk (BLR);Junior RAW Erőemelő Világbajnokság
+Férfi;RAW;Junior;Fekvenyomás;-105kg;Kulcsár Dávid;KeletEreje Nyíregyháza;1995;94, 95;197,5;2017.11.25-26;Kisbér;Junior RAW Erőemelő Csapatbajnokság
+Férfi;RAW;Junior;Fekvenyomás;-120kg;Bereczki Szilárd;Sirius Lifting SE;1999;111,20;210,0;2021.08.28;Baja;II.o RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Junior;Fekvenyomás;120+kg;Bana Milán;Hajdúszoboszlói BSE;1998;149,40;225,0;2021.09.28;Halmstad (SWE);Junior RAW Erőemelő Világbajnokság
+Férfi;RAW;Junior;Felhúzás;-53kg;Nagy Viktor;Herkules SE;1995;52,50;160,0;2018.10.06;Orosháza;Junior RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Junior;Felhúzás;-59kg;Barátosi Levente;BEAC;1997;58,15;172,5;2018.04.27-29;Kisbér;Junior RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Junior;Felhúzás;-66kg;Veres Ádám;Mérk Kinizsi SE;1996;65,95;230,0;2018.11.24-12.02;Kaunas (LTU);Junior RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Junior;Felhúzás;-74kg;Posta Krisztián;Vitalitás SE;2000;73,80;250,0;2021.09.27;Halmstad (SWE);Junior RAW Erőemelő Világbajnokság
+Férfi;RAW;Junior;Felhúzás;-83kg;Kulcsár Dávid;Popeye Power Nyíregyháza;1995;82,74;275,0;2015.03.21-28;Pilsen (CZE);Junior RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Junior;Felhúzás;-93kg;Kulcsár Dávid;KeletEreje Nyíregyháza;1995;90,44;305,0;2017.03.12-19;Thisted (DEN);Junior RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Junior;Felhúzás;-105kg;Hegedűs Áron;Westfit Gym SE;1996;104,40;330,0;2019.11.29-12.08;Kaunas (LTU);Junior RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Junior;Felhúzás;-120kg;Kujbus Balázs;KeletEreje Nyíregyháza;1998;115,30;310,0;2021.06.27;Budapest;Junior Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Junior;Felhúzás;120+kg;Seres Zoltán;KeletEreje Nyíregyháza;1995;129,40;332,5;2018.11.24-12.02;Kaunas (LTU);Junior RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 1;Összetett;-59kg;Bali József;Gyulai Atlasz SE;1973;57,80;382,5;2019.04.06-07;Székesfehérvár;II.o. Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Összetett;-66kg;Tóth Ferenc;Pannónia Power;1966;65,70;467,5;2015.05.01-02;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Összetett;-74kg;Karacs Péter;Tiszaújvárosi Fitness SE;1977;73,68;515,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 1;Összetett;-83kg;Hornyák Péter;Sirius Lifting SE;1979;81,70;655,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 1;Összetett;-93kg;Fekete Miklós;Sirius Lifting SE;1973;92,65;767,5;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 1;Összetett;-105kg;Menyhárt Péter;Attila Fitness SE;1973;102,20;692,5;2015.05.01-02;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Összetett;-120kg;Pánisz László;Hajdúszoboszlói BSE;1972;117,95;772,5;2017.06.15-25;Minszk (BLR);Masters RAW Erőemelő Világbajnokság
+Férfi;RAW;Masters 1;Összetett;120+kg;Bodnár István;Sebi Gym SE;1965;172,70;755,0;2014.05.16-18;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Guggolás;-59kg;Bali József;Gyulai Atlasz SE;1973;57,80;125,0;2019.04.06-07;Székesfehérvár;II.o. Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Guggolás;-66kg;Tóth Ferenc;Pannónia Power;1966;65,70;157,5;2015.05.01-02;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Guggolás;-74kg;Karacs Péter;Tiszaújvárosi Fitness SE;1977;73,68;185,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 1;Guggolás;-83kg;Fekete Miklós;AVAS TK;1973;82,60;235,0;2015.03.21-28;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 1;Guggolás;-93kg;Fekete Miklós;Sirius Lifting SE;1973;92,65;270,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 1;Guggolás;-105kg;Menyhárt Péter;Attila Fitness SE;1973;102,20;252,5;2016.05.01;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Guggolás;-120kg;Pánisz László;Hajdúszoboszlói BSE;1972;117,95;295,0;2017.06.15-25;Minszk (BLR);Masters RAW Erőemelő Világbajnokság
+Férfi;RAW;Masters 1;Guggolás;120+kg;Papp Zsolt;PowerBuilder SE;1979;141,30;285,5;2021.06.27;Budapest;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Fekvenyomás;-59kg;Bali József;Gyulai Atlasz SE;1973;57,80;92,5;2019.04.06-07;Székesfehérvár;II.o. Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Fekvenyomás;-66kg;Molnár Gábor;RKA Erőművek SE;1978;66,00;135,0;2019.04.06-07;Székesfehérvár;II.o. Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Fekvenyomás;-74kg;Karacs Péter;Tiszaújvárosi Fitness SE;1977;73,00;142,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 1;Fekvenyomás;-83kg;Gyuricska István;Ózdi SFC;1967;80,70;182,5;2014.05.16-18;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Fekvenyomás;-93kg;Fekete Miklós;Sirius Lifting SE;1973;92,65;187,5;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 1;Fekvenyomás;-105kg;Kovács László;Tabi Fitnesz Klub;1974;104,95;175,0;2015.05.01-02;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Fekvenyomás;-120kg;Tóth Géza;Attila Fitness SE;1972;114,00;202,5;2013.09.14;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Fekvenyomás;120+kg;Bodnár István;Sebi Gym SE;1965;172,70;202,5;2014.05.16-18;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Felhúzás;-59kg;Bali József;Gyulai Atlasz SE;1973;57,80;165,0;2019.04.06-07;Székesfehérvár;II.o. Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Felhúzás;-66kg;Tóth Ferenc;Pannónia Power;1966;65,70;200,0;2015.05.01-02;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Felhúzás;-74kg;Solymosi Péter;Vasdisznó SE;1979;73,30;217,5;2021.06.26;Budapest;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Felhúzás;-83kg;Hornyák Péter;Sirius Lifting SE;1979;81,70;265,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 1;Felhúzás;-93kg;Fekete Miklós;Sirius Lifting SE;1973;92,65;310,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 1;Felhúzás;-105kg;Menyhárt Péter;Attila Fitness SE;1973;102,20;285,0;2015.05.01-02;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Felhúzás;-120kg;Pánisz László;Hajdúszoboszlói BSE;1972;118,00;315,5;2016.05.01;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 1;Felhúzás;120+kg;Papp Zsolt;PowerBuilder SE;1979;141,30;300,5;2021.06.27;Budapest;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Összetett;-59kg;Görög László;Mérk Kinizsi SE;1963;58,45;315,0;2014.05.16-18;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Összetett;-66kg;;;;;;;;
+Férfi;RAW;Masters 2;Összetett;-74kg;Orosz László;Bátor Fitt Erőemelő Klub;1969;70,90;505,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 2;Összetett;-83kg;Ficzere Tamás;Sirius Lifting SE;1970;82,39;592,5;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 2;Összetett;-93kg;Ficzere Tamás;Sirius Lifting SE;1970;85,60;590,0;2020.09.12-13;Szombathely;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Összetett;-105kg;Csepcsényi Bálint Zoltán;PowerBuilder SE;1968;103,10;590,0;2021.06.27;Budapest;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Összetett;-120kg;Mamedov Iaman;Uralsport;1960;108,30;635,0;2015.05.01-02;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Összetett;120+kg;Szolnoki Béla;Gyulai Atlasz SE;1969;123,90;702,5;2019.04.06-07;Székesfehérvár;II.o. Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Guggolás;-59kg;Görög László;Mérk Kinizsi SE;1963;57,95;110,0;2013.09.14;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Guggolás;-66kg;;;;;;;;
+Férfi;RAW;Masters 2;Guggolás;-74kg;Orosz László;Bátor Fitt Erőemelő Klub;1969;70,90;172,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 2;Guggolás;-83kg;Ficzere Tamás;Sirius Lifting SE;1970;82,39;217,5;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 2;Guggolás;-93kg;Ficzere Tamás;Sirius Lifting SE;1970;85,60;217,5;2020.09.12-13;Szombathely;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Guggolás;-105kg;Csepcsényi Bálint Zoltán;PowerBuilder SE;1968;103,10;212,5;2021.06.27;Budapest;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Guggolás;-120kg;Mamedov Iaman;Uralsport;1960;108,75;245,0;2016.10.15;Budapest;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Guggolás;120+kg;Szolnoki Béla;Gyulai Atlasz SE;1969;123,90;270,0;2019.04.06-07;Székesfehérvár;II.o. Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Fekvenyomás;-59kg;Görög László;Mérk Kinizsi SE;1963;58,10;67,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 2;Fekvenyomás;-66kg;;;;;;;;
+Férfi;RAW;Masters 2;Fekvenyomás;-74kg;Orosz László;Bátor Fitt Erőemelő Klub;1969;70,90;127,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 2;Fekvenyomás;-83kg;Ficzere Tamás;Sirius Lifting SE;1970;82,39;130,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 2;Fekvenyomás;-93kg;Bársony Attila;Sugó Power SE;1966;90,25;160,0;2016.10.15;Budapest;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Fekvenyomás;-105kg;Moldován János;Gyulai Atlasz SE;1966;99,90;162,5;2017.05.20;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Fekvenyomás;-120kg;Mamedov Iaman;Uralsport;1960;108,30;165,0;2015.05.01-02;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Fekvenyomás;120+kg;Bodnár István;Orosházi Toldi SE;1965;164,25;187,5;2017.11.25;Kisbér;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Felhúzás;-59kg;Görög László;Mérk Kinizsi SE;1963;57,95;140,0;2013.09.14;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Felhúzás;-66kg;;;;;;;;
+Férfi;RAW;Masters 2;Felhúzás;-74kg;Orosz László;Bátor Fitt Erőemelő Klub;1969;70,90;205,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 2;Felhúzás;-83kg;Fábri János;Gyulai Atlasz SE;1945;82,37;260,0;2015.06.05-14;Salo (FIN);Masters RAW Erőemelő Világbajnokság
+Férfi;RAW;Masters 2;Felhúzás;-93kg;Ficzere Tamás;Sirius Lifting SE;1970;85,60;242,5;2020.09.12-13;Szombathely;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Felhúzás;-105kg;Szathmáry Zoltán;Ogre Power Team SE;1967;103,80;250,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 2;Felhúzás;-120kg;Mamedov Iaman;Uralsport;1960;108,30;245,0;2014.05.16-18;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 2;Felhúzás;120+kg;Szolnoki Béla;Gyulai Atlasz SE;1969;123,90;292,5;2019.04.06-07;Székesfehérvár;II.o. Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Összetett;-59kg;;;;;;;;
+Férfi;RAW;Masters 3;Összetett;-66kg;;;;;;;;
+Férfi;RAW;Masters 3;Összetett;-74kg;Gerstmayer László;Bátor Fitt Erőemelő Klub;1950;70,60;340,0;2016.10.15;Budapest;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Összetett;-83kg;Fábri János;Gyulai Atlasz SE;1945;82,37;540,0;2015.06.05-14;Salo (FIN);Masters RAW Erőemelő Világbajnokság
+Férfi;RAW;Masters 3;Összetett;-93kg;Szarka Antal;BodyPower;1955;92,20;440,0;2021.06.26;Budapest;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Összetett;-105kg;Lehotai Sándor;Delta TK;1959;102,46;545,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 3;Összetett;-120kg;Standinger István;Flex SE;1950;110,95;525,0;2015.05.01-02;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Összetett;120+kg;Horváth Tibor;Delta Sárbogárd;1955;120,30;480,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 3;Guggolás;-59kg;;;;;;;;
+Férfi;RAW;Masters 3;Guggolás;-66kg;;;;;;;;
+Férfi;RAW;Masters 3;Guggolás;-74kg;Gerstmayer László;Bátor Fitt Erőemelő Klub;1950;70,60;90,0;2016.10.15;Budapest;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Guggolás;-83kg;Zöld László;Európa 2024 SE;1958;80,60;173,0;2021.06.26;Budapest;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Guggolás;-93kg;Szarka Antal;BodyPower;1955;92,20;150,0;2021.06.26;Budapest;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Guggolás;-105kg;Lehotai Sándor;Delta TK;1959;103,48;212,5;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 3;Guggolás;-120kg;Standinger István;Flex SE;1950;109,81;175,0;2015.06.05-14;Salo (FIN);Masters RAW Erőemelő Világbajnokság
+Férfi;RAW;Masters 3;Guggolás;120+kg;Horváth Tibor;Delta Sárbogárd;1955;120,30;160,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 3;Fekvenyomás;-59kg;;;;;;;;
+Férfi;RAW;Masters 3;Fekvenyomás;-66kg;;;;;;;;
+Férfi;RAW;Masters 3;Fekvenyomás;-74kg;Gerstmayer László;Bátor Fitt Erőemelő Klub;1950;70,60;110,0;2016.10.15;Budapest;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Fekvenyomás;-83kg;Fábri János;Gyulai Atlasz SE;1945;82,37;107,5;2015.06.05-14;Salo (FIN);Masters RAW Erőemelő Világbajnokság
+Férfi;RAW;Masters 3;Fekvenyomás;-93kg;Dr. Újvári Ernő;Flex SE;1948;85,80;110,0;2014.05.16-18;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Fekvenyomás;-105kg;Szarka Antal;Orosházi Toldi SE;1955;99,25;112,5;2018.10.06-07;Orosháza;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Fekvenyomás;-120kg;Standinger István;Flex SE;1950;104,50;127,5;2014.05.16-18;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Fekvenyomás;120+kg;Horváth Tibor;Delta Sárbogárd;1955;120,30;130,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 3;Felhúzás;-59kg;;;;;;;;
+Férfi;RAW;Masters 3;Felhúzás;-66kg;;;;;;;;
+Férfi;RAW;Masters 3;Felhúzás;-74kg;Gerstmayer László;Bátor Fitt Erőemelő Klub;1950;70,60;140,0;2016.10.15;Budapest;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Felhúzás;-83kg;Fábri János;Gyulai Atlasz SE;1945;82,37;260,0;2015.06.05-14;Salo (FIN);Masters RAW Erőemelő Világbajnokság
+Férfi;RAW;Masters 3;Felhúzás;-93kg;Szarka Antal;BodyPower;1955;92,20;185,0;2021.06.26;Budapest;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Felhúzás;-105kg;Lehotai Sándor;Delta TK;1959;100,90;251,0;2019.09.14-15;Sárbogárd;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Felhúzás;-120kg;Standinger István;Flex SE;1950;110,95;230,0;2015.05.01-02;Tab;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 3;Felhúzás;120+kg;Horváth Tibor;Delta Sárbogárd;1955;120,30;190,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 4;Összetett;-59kg;;;;;;;;
+Férfi;RAW;Masters 4;Összetett;-66kg;;;;;;;;
+Férfi;RAW;Masters 4;Összetett;-74kg;Varga László;MAFC;1945;69,05;232,5;2016.10.15;Budapest;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 4;Összetett;-83kg;Fábri János;Gyulai Atlasz SE;1945;82,37;540,0;2015.06.05-14;Salo (FIN);Masters RAW Erőemelő Világbajnokság
+Férfi;RAW;Masters 4;Összetett;-93kg;Hagymási János;Flex SE;1941;92,20;340,0;2015.05.01-02;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 4;Összetett;-105kg;Hagymási János;Fitness2000;1941;95,40;372,5;2013.09.14;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 4;Összetett;-120kg;Standinger István;Flex SE;1950;109,81;480,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 4;Összetett;120+kg;;;;;;;;
+Férfi;RAW;Masters 4;Guggolás;-59kg;;;;;;;;
+Férfi;RAW;Masters 4;Guggolás;-66kg;;;;;;;;
+Férfi;RAW;Masters 4;Guggolás;-74kg;Varga László;MAFC;1945;69,05;72,5;2016.10.15;Budapest;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 4;Guggolás;-83kg;Fábri János;Gyulai Atlasz SE;1945;82,30;173,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 4;Guggolás;-93kg;Hagymási János;Flex SE;1941;92,20;140,0;2015.05.01-02;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 4;Guggolás;-105kg;Hagymási János;Fitness2000;1941;95,40;140,0;2013.09.14;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 4;Guggolás;-120kg;Standinger István;Flex SE;1950;109,81;150,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 4;Guggolás;120+kg;;;;;;;;
+Férfi;RAW;Masters 4;Fekvenyomás;-59kg;;;;;;;;
+Férfi;RAW;Masters 4;Fekvenyomás;-66kg;;;;;;;;
+Férfi;RAW;Masters 4;Fekvenyomás;-74kg;Varga László;MAFC;1945;69,05;65,0;2016.10.15;Budapest;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 4;Fekvenyomás;-83kg;Fábri János;Gyulai Atlasz SE;1945;82,37;107,5;2015.06.05-14;Salo (FIN);Masters RAW Erőemelő Világbajnokság
+Férfi;RAW;Masters 4;Fekvenyomás;-93kg;Mészáros Csaba;MAFC;1944;89,35;82,5;2016.10.15;Budapest;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 4;Fekvenyomás;-105kg;Hagymási János;Fitness2000;1941;95,40;60,0;2013.09.14;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 4;Fekvenyomás;-120kg;Standinger István;Flex SE;1950;109,81;110,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 4;Fekvenyomás;120+kg;;;;;;;;
+Férfi;RAW;Masters 4;Felhúzás;-59kg;;;;;;;;
+Férfi;RAW;Masters 4;Felhúzás;-66kg;;;;;;;;
+Férfi;RAW;Masters 4;Felhúzás;-74kg;Varga László;MAFC;1945;69,05;95,0;2016.10.15;Budapest;Masters RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 4;Felhúzás;-83kg;Fábri János;Gyulai Atlasz SE;1945;82,37;260,0;2015.06.05-14;Salo (FIN);Masters RAW Erőemelő Világbajnokság
+Férfi;RAW;Masters 4;Felhúzás;-93kg;Hagymási János;Flex SE;1941;92,20;150,0;2015.05.01-02;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 4;Felhúzás;-105kg;Hagymási János;Fitness2000;1941;95,40;172,5;2013.09.14;Tab;Masters Férfi RAW Erőemelő Magyar Bajnokság
+Férfi;RAW;Masters 4;Felhúzás;-120kg;Standinger István;Flex SE;1950;109,81;220,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Férfi;RAW;Masters 4;Felhúzás;120+kg;;;;;;;;
+Női;RAW;Open;Összetett;-47kg;Lehóczkyné Fawal Margit;Thor-PowerBuilder SE;1988;46,65;325,0;2017.06.03;Tab;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Összetett;-52kg;Petróczki Magdolna;Body Power;1968;51,59;385,0;2015.06.05-14;Salo (FIN);RAW Erőemelő Világbajnokság
+Női;RAW;Open;Összetett;-57kg;Lehóczkyné Fawal Margit;PowerBuilder SE;1988;54,00;385,0;2019.06.22;Ászár;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Összetett;-63kg;Rozsnyai-Kovács Aletta;PowerBuilder SE;1999;62,66;462,5;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Női;RAW;Open;Összetett;-69kg;Sallai Eszter;PowerBuilder SE;2001;68,40;437,5;2021.05.29;Budapest;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Összetett;-76kg;Tóth Enikő;Erőtér SE;1998;74,30;423,0;2021.05.29;Budapest;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Összetett;-84kg;Bilicz Laura;PowerBuilder SE;1997;78,80;425,0;2019.11.29-12.08;Kaunas (LTU);Junior RAW Erőemelő Európa Bajnokság
+Női;RAW;Open;Összetett;84+kg;Dr. Lombosi Melinda;RKA Erőművek SE;1978;132,36;539,5;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Open;Guggolás;-47kg;Lehóczkyné Fawal Margit;Thor-PowerBuilder SE;1988;46,65;120,0;2017.06.03;Tab;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Guggolás;-52kg;Petróczki Magdolna;Body Power;1968;51,40;135,0;2015.05.03;Tab;RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Guggolás;-57kg;Lehóczkyné Fawal Margit;PowerBuilder SE;1988;54,00;137,5;2019.06.22;Ászár;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Guggolás;-63kg;Rozsnyai-Kovács Aletta;Vasdisznó Erőemelő SE;1999;62,66;162,5;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Női;RAW;Open;Guggolás;-69kg;Sallai Eszter;PowerBuilder SE;2001;68,40;160,0;2021.05.29;Budapest;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Guggolás;-76kg;Tóth Enikő;Erőtér SE;1998;74,30;155,0;2021.05.29;Budapest;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Guggolás;-84kg;Olajos Tünde;RKA Erőművek SE;1989;83,30;167,5;2019.06.22;Ászár;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Guggolás;84+kg;Szabó Ágnes;Orosházi Toldi SE;1988;118,15;207,5;2018.11.24-12.02;Kaunas (LTU);RAW Erőemelő Európa Bajnokság
+Női;RAW;Open;Fekvenyomás;-47kg;Lehóczkyné Fawal Margit;Thor-PowerBuilder SE;1988;46,65;75,0;2017.06.03;Tab;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Fekvenyomás;-52kg;Nyers Mónika;Tabi Fitness Klub SE;1978;50,00;98,0;2021.05.29;Budapest;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Fekvenyomás;-57kg;Salamon Erika;Tabi Fitness Klub SE;1974;56,10;100,5;2019.09.14;Sárbogárd;Masters RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Fekvenyomás;-63kg;Rozsnyai-Kovács Aletta;Vasdisznó Erőemelő SE;1999;62,66;120,0;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Női;RAW;Open;Fekvenyomás;-69kg;Sallai Eszter;PowerBuilder SE;2001;68,40;97,5;2021.05.29;Budapest;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Fekvenyomás;-76kg;alaprekord;;;;95,0;2021.04.11;;
+Női;RAW;Open;Fekvenyomás;-84kg;Juhász Anna Csilla;MAFC;1996;82,30;100,0;2020.10.24;Budapest;Erőemelő MEFOB
+Női;RAW;Open;Fekvenyomás;84+kg;Dr. Lombosi Melinda;RKA Erőművek SE;1978;136,55;143,0;2018.11.24-12.02;Kaunas (LTU);RAW Erőemelő Európa Bajnokság
+Női;RAW;Open;Felhúzás;-47kg;Fehér Olívia;Sirius Lifting SE;1991;45,70;140,5;2021.05.29;Budapest;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Felhúzás;-52kg;Petróczki Magdolna;Body Power;1968;51,59;165,0;2015.06.05-14;Salo (FIN);RAW Erőemelő Világbajnokság
+Női;RAW;Open;Felhúzás;-57kg;Szántó Erika;RKA Erőművek SE;1977;55,86;162,5;2015.03.21-28;Pilsen (CZE);RAW Erőemelő Európa Bajnokság
+Női;RAW;Open;Felhúzás;-63kg;Rozsnyai-Kovács Aletta;PowerBuilder SE;1999;62,66;180,0;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Női;RAW;Open;Felhúzás;-69kg;Sallai Eszter;PowerBuilder SE;2001;68,40;180,0;2021.05.29;Budapest;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Felhúzás;-76kg;Tóth Enikő;Erőtér SE;1998;74,30;187,5;2021.05.29;Budapest;Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Open;Felhúzás;-84kg;Bak Szilvia;Fortius SE;1971;82,95;175,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Open;Felhúzás;84+kg;Köteles Mária;DEO Szeged;1992;144,01;200,0;2015.06.05-14;Salo (FIN);RAW Erőemelő Világbajnokság
+Női;RAW;Ifjúsági;Összetett;-43kg;Paranai Laura;Encsi Diáksport Egyesület;2003;42,65;165,0;2018.11.25-26;Kisbér;Ifi Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Összetett;-47kg;Láposi Noémi;KeletEreje Nyíregyháza;1998;46,50;162,5;2016.04.30;Tab;Ifi Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Összetett;-52kg;Fehér Krisztina;Vitalitás SE;2001;47,80;155,0;2019.06.22;Ászár;Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Összetett;-57kg;Erdelecz Evelin;Barcsi VSE;1997;56,40;262,5;2015.05-03;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Összetett;-63kg;Vass Angéla Viktória;Hajdúszoboszlói BSE;2000;61,75;302,5;2017.11.25-26;Kisbér;Ifi Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Összetett;-69kg;alaprekord;;;;300,0;2021.04.11;;
+Női;RAW;Ifjúsági;Összetett;-76kg;alaprekord;;;;350,0;2021.04.11;;
+Női;RAW;Ifjúsági;Összetett;-84kg;Haklik Dorottya;Orosházi Toldi SE;1996;83,55;357,5;2014.05.16-18;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Összetett;84+kg;Vajda Fanni;RKA Erőművek SE;1997;106,75;405,0;2015.05.03;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Guggolás;-43kg;Paranai Laura;Encsi Diáksport Egyesület;2003;42,65;57,5;2018.11.25-26;Kisbér;Ifi Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Guggolás;-47kg;Láposi Noémi;KeletEreje Nyíregyháza;1998;46,50;60,0;2016.04.30;Tab;Ifi Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Guggolás;-52kg;Fehér Krisztina;Vitalitás SE;2001;47,80;55,0;2019.06.22;Ászár;Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Guggolás;-57kg;Erdelecz Evelin;Barcsi VSE;1997;56,40;87,5;2015.05-03;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Guggolás;-63kg;Vass Angéla Viktória;Hajdúszoboszlói BSE;2000;61,75;115,0;2017.11.25-26;Kisbér;Ifi Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Guggolás;-69kg;alaprekord;;;;115,0;2021.04.11;;
+Női;RAW;Ifjúsági;Guggolás;-76kg;alaprekord;;;;125,0;2021.04.11;;
+Női;RAW;Ifjúsági;Guggolás;-84kg;Gaál Kinga;RKA Erőművek SE;2000;81,70;132,5;2018.11.24-12.02;Kaunas (LTU);Ifi RAW Erőemelő Európa Bajnokság
+Női;RAW;Ifjúsági;Guggolás;84+kg;Vajda Fanni;RKA Erőművek SE;1997;109,03;167,5;2015.05.03;Madrid (ESP);Arnold Classic Europe
+Női;RAW;Ifjúsági;Fekvenyomás;-43kg;Paranai Laura;Encsi Diáksport Egyesület;2003;42,65;35,0;2018.11.25-26;Kisbér;Ifi Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Fekvenyomás;-47kg;Vass Tünde;Barcsi VSE;1998;46,90;30,0;2015.05.03;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Fekvenyomás;-52kg;Bauer Laura;Encsi Diáksport SE;2002;48,80;32,5;2017.11.25-26;Kisbér;Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Fekvenyomás;-57kg;Erdelecz Evelin;Barcsi VSE;1997;56,40;60,0;2015.05.03;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Fekvenyomás;-63kg;Budai Gvendolin;Nagytétényi SE;2001;61,60;67,5;2019.04.07;Székesfehérvár;II.o. Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Fekvenyomás;-69kg;Gyöngyösi Adél;PowerBuilder SE;2005;68,60;70,0;2021.05.29;Budapest;Ifi Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Fekvenyomás;-76kg;alaprekord;;;;70,0;2021.04.11;;
+Női;RAW;Ifjúsági;Fekvenyomás;-84kg;Haklik Dorottya;Orosházi Toldi SE;1996;83,55;75,0;2014.05.16-18;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Fekvenyomás;84+kg;Vajda Fanni;RKA Erőművek SE;1997;109,03;92,5;2015.09.26;Madrid (ESP);Arnold Classic Europe
+Női;RAW;Ifjúsági;Felhúzás;-43kg;Paranai Laura;Encsi Diáksport Egyesület;2003;40,65;67,5;2017.04.30;Budapest;Ifi Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Felhúzás;-47kg;Láposi Noémi;KeletEreje Nyíregyháza;1998;46,50;75,0;2016.04-30;Tab;Ifi Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Felhúzás;-52kg;Hajnal Petra;RKA Erőművek SE;1995;48,40;70,0;2013.09.14;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Felhúzás;-57kg;Erdelecz Evelin;Barcsi VSE;1997;56,40;115,0;2015.05.03;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Felhúzás;-63kg;Kirilla Szilvia;Famílya SC;1993;60,35;140,0;2012.03.31;Tab;Ifi Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Felhúzás;-69kg;alaprekord;;;;135,0;2021.04.11;;
+Női;RAW;Ifjúsági;Felhúzás;-76kg;alaprekord;;;;145,0;2021.04.11;;
+Női;RAW;Ifjúsági;Felhúzás;-84kg;Haklik Dorottya;Orosházi Toldi SE;1996;83,55;152,5;2014.05.16-18;Tab;Ifi RAW Erőemelő Magyar Bajnokság
+Női;RAW;Ifjúsági;Felhúzás;84+kg;Vajda Fanni;RKA Erőművek SE;1997;109,03;175,0;2015.09.26;Madrid (ESP);Arnold Classic Europe
+Női;RAW;Junior;Összetett;-43kg;Paranai Laura;Encsi Diáksport Egyesület;2003;42,65;165,0;2018.11.25-26;Kisbér;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Összetett;-47kg;Draxler Ágnes;Hagyma Gym ZSE;1995;45,05;215,0;2018.10.06;Orosháza;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Összetett;-52kg;Csatlós Klaudia;RKA Erőművek SE;1990;50,85;287,5;2013.09.14;Tab;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Összetett;-57kg;Divják Janka;Kaposvári Cross-Forma;1998;55,70;310,0;2019.04.07;Székesfehérvár;II.o. Junior RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Összetett;-63kg;Rozsnyai-Kovács Aletta;PowerBuilder SE;1999;62,66;462,5;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Női;RAW;Junior;Összetett;-69kg;Sallai Eszter;PowerBuilder SE;2001;68,40;437,5;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Összetett;-76kg;Tóth Enikő;Erőtér SE;1998;74,30;423,0;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Összetett;-84kg;Bilicz Laura;PowerBuilder SE;1997;78,80;425,0;2019.11.29-12.08;Kaunas (LTU);Junior RAW Erőemelő Európa Bajnokság
+Női;RAW;Junior;Összetett;84+kg;Köteles Mária;DEO Szeged;1992;144,01;522,5;2015.06.05-14;Salo (FIN);Junior RAW Erőemelő Világbajnokság
+Női;RAW;Junior;Guggolás;-43kg;Paranai Laura;Encsi Diáksport Egyesület;2003;42,65;57,5;2017.11.25-26;Kisbér;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Guggolás;-47kg;Draxler Ágnes;Hagyma Gym ZSE;1995;45,05;75,0;2018.10.06;Orosháza;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Guggolás;-52kg;Csatlós Klaudia;RKA Erőművek SE;1990;50,85;100,0;2013.09.14;Tab;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Guggolás;-57kg;Kékegyi Henriett;Orosházi Toldi SE;1993;56,20;100,0;2015.05.03;Tab;Junior RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Guggolás;-63kg;Rozsnyai-Kovács Aletta;Vasdisznó Erőemelő SE;1999;62,66;162,5;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Női;RAW;Junior;Guggolás;-69kg;Sallai Eszter;PowerBuilder SE;2001;68,40;160,0;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Guggolás;-76kg;Tóth Enikő;Erőtér SE;1998;74,30;155,0;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Guggolás;-84kg;Bilicz Laura;PowerBuilder SE;1997;78,80;167,5;2019.11.29-12.08;Kaunas (LTU);Junior RAW Erőemelő Európa Bajnokság
+Női;RAW;Junior;Guggolás;84+kg;Köteles Mária;DEO Szeged;1992;144,01;190,0;2015.06.05-14;Salo (FIN);Junior RAW Erőemelő Világbajnokság
+Női;RAW;Junior;Fekvenyomás;-43kg;Paranai Laura;Encsi Diáksport Egyesület;2003;42,65;35,0;2017.11.25-26;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Fekvenyomás;-47kg;Somogyi Edina;Attila Fitness SE;1991;44,25;52,5;2014.05.16-18;Tab;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Fekvenyomás;-52kg;Csatlós Klaudia;RKA Erőművek SE;1990;50,85;60,0;2013.09.14;Tab;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Fekvenyomás;-57kg;Divják Janka;Kaposvári Cross-Forma;1998;55,70;82,5;2019.04.07;Székesfehérvár;II.o. Junior RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Fekvenyomás;-63kg;Rozsnyai-Kovács Aletta;Vasdisznó Erőemelő SE;1999;62,66;120,0;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Női;RAW;Junior;Fekvenyomás;-69kg;Sallai Eszter;PowerBuilder SE;2001;68,40;97,5;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Fekvenyomás;-76kg;Tóth Enikő;Erőtér SE;1998;74,30;80,5;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Fekvenyomás;-84kg;Bilicz Laura;PowerBuilder SE;1997;78,60;98,0;2019.06.22;Ászár;Junior RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Fekvenyomás;84+kg;Köteles Mária;DEO Szeged;1992;142,07;135,0;2015.03.21-28;Pilsen (CZE);Junior RAW Erőemelő Európa Bajnokság
+Női;RAW;Junior;Felhúzás;-43kg;Paranai Laura;Encsi Diáksport Egyesület;2003;42,65;72,5;2017.11.25-26;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Felhúzás;-47kg;Horváth Fanni;BEAC;1994;45,60;105,0;2017.04.30;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Felhúzás;-52kg;Csatlós Klaudia;RKA Erőművek SE;1990;50,85;127,5;2013.09.14;Tab;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Felhúzás;-57kg;Bécsi Barbara;Marvel Team SE;2002;56,20;150,0;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Felhúzás;-63kg;Rozsnyai-Kovács Aletta;PowerBuilder SE;1999;62,66;180,0;2021.09.27;Halmstad (SWE);Junior Raw Erőemelő Világbajnokság
+Női;RAW;Junior;Felhúzás;-69kg;Sallai Eszter;PowerBuilder SE;2001;68,40;180,0;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Felhúzás;-76kg;Tóth Enikő;Erőtér SE;1998;74,30;187,5;2021.05.29;Budapest;Junior Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Felhúzás;-84kg;Bilicz Laura;PowerBuilder SE;1997;78,60;162,5;2019.06.22;Ászár;Junior RAW Erőemelő Magyar Bajnokság
+Női;RAW;Junior;Felhúzás;84+kg;Köteles Mária;DEO Szeged;1992;144,01;200,0;2015.06.05-14;Salo (FIN);Junior RAW Erőemelő Világbajnokság
+Női;RAW;Masters 1;Összetett;-47kg;alaprekord;;;;200,0;2021.04.11;;
+Női;RAW;Masters 1;Összetett;-52kg;Petróczki Magdolna;Body Power;1968;;385,0;2015.06.05-14;Salo (FIN);Masters RAW Erőemelő Világbajnokság
+Női;RAW;Masters 1;Összetett;-57kg;Salamon Erika;Tabi Fitness Klub SE;1974;;289,0;2019.09.14;Sárbogárd;Masters RAW Erőemelő Magyar Bajnokság
+Női;RAW;Masters 1;Összetett;-63kg;Dr. Kiss Anett;RKA Erőművek SE;1976;;382,5;2019.06.22;Ászár;Masters Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Masters 1;Összetett;-69kg;alaprekord;;;;320,0;2021.04.11;;
+Női;RAW;Masters 1;Összetett;-76kg;alaprekord;;;;350,0;2021.04.11;;
+Női;RAW;Masters 1;Összetett;-84kg;Bak Szilvia;Fortius SE;1971;82,95;400,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 1;Összetett;84+kg;Dr. Lombosi Melinda;RKA Erőművek SE;1978;132,36;539,5;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 1;Guggolás;-47kg;alaprekord;;;;60,0;2021.04.11;;
+Női;RAW;Masters 1;Guggolás;-52kg;Petróczki Magdolna;Body Power;1968;51,59;140,0;2015.06.05-14;Salo (FIN);Masters RAW Erőemelő Világbajnokság
+Női;RAW;Masters 1;Guggolás;-57kg;Salamon Erika;Tabi Fitness Klub SE;1974;56,10;83,0;2019.09.14;Sárbogárd;Masters RAW Erőemelő Magyar Bajnokság
+Női;RAW;Masters 1;Guggolás;-63kg;Dr. Kiss Anett;RKA Erőművek SE;1976;62,07;137,5;2015.06.05-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 1;Guggolás;-69kg;alaprekord;;;;120,0;2021.04.11;;
+Női;RAW;Masters 1;Guggolás;-76kg;Dr. Szabados Katalin Éva;Fortius SE;1975;73,30;137,5;2021.05.29;Budapest;Masters Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Masters 1;Guggolás;-84kg;Bak Szilvia;Fortius SE;1971;82,95;135,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 1;Guggolás;84+kg;Dr. Lombosi Melinda;RKA Erőművek SE;1978;132,36;203,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 1;Fekvenyomás;-47kg;alaprekord;;;;70,0;2011.01.01;;
+Női;RAW;Masters 1;Fekvenyomás;-52kg;Nyers Mónika;Tabi Fitness Klub SE;1978;50,00;98,0;2021.05.29;Budapest;Masters Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Masters 1;Fekvenyomás;-57kg;Salamon Erika;Tabi Fitness Klub SE;1974;56,10;100,5;2019.09.14;Sárbogárd;Masters RAW Erőemelő Magyar Bajnokság
+Női;RAW;Masters 1;Fekvenyomás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,20;90,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 1;Fekvenyomás;-69kg;alaprekord;;;;85,0;2021.04.11;;
+Női;RAW;Masters 1;Fekvenyomás;-76kg;alaprekord;;;;90,0;2021.04.11;;
+Női;RAW;Masters 1;Fekvenyomás;-84kg;Bak Szilvia;Fortius SE;1971;83,50;90,0;2021.05.29;Budapest;Masters Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Masters 1;Fekvenyomás;84+kg;Dr. Lombosi Melinda;RKA Erőművek SE;1978;136,55;143,0;2018.11.24-12.02;Kaunas (LTU);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 1;Felhúzás;-47kg;alaprekord;;;;70,0;2021.04.11;;
+Női;RAW;Masters 1;Felhúzás;-52kg;Petróczki Magdolna;Body Power;1968;51,59;165,0;2015.06.05-14;Salo (FIN);Masters RAW Erőemelő Világbajnokság
+Női;RAW;Masters 1;Felhúzás;-57kg;Salamon Erika;Tabi Fitness Klub SE;1974;56,10;105,5;2019.09.14;Sárbogárd;Masters RAW Erőemelő Magyar Bajnokság
+Női;RAW;Masters 1;Felhúzás;-63kg;Dr. Kiss Anett;RKA Erőművek SE;1976;62,70;177,5;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 1;Felhúzás;-69kg;alaprekord;;;;140,0;2021.04.11;;
+Női;RAW;Masters 1;Felhúzás;-76kg;Dr. Szabados Katalin Éva;Fortius SE;1975;73,30;150,5;2021.05.29;Budapest;Masters Női RAW Erőemelő Magyar Bajnokság
+Női;RAW;Masters 1;Felhúzás;-84kg;Bak Szilvia;Fortius SE;1971;82,95;175,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 1;Felhúzás;84+kg;Dr. Lombosi Melinda;RKA Erőművek SE;1978;137,00;192,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Összetett;-47kg;;;;;;;;
+Női;RAW;Masters 2;Összetett;-52kg;Petróczki Magdolna;RKA Erőművek SE;1968;51,15;357,5;2018.03.06-11;Helsingborg, (SWE);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Összetett;-57kg;;;;;;;;
+Női;RAW;Masters 2;Összetett;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,20;327,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Összetett;-69kg;;;;;;;;
+Női;RAW;Masters 2;Összetett;-76kg;;;;;;;;
+Női;RAW;Masters 2;Összetett;-84kg;Bak Szilvia;Fortius SE;1971;82,95;400,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Összetett;84+kg;Fazekas Andrea;Fortius SE;1966;103,69;350,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Guggolás;-47kg;;;;;;;;
+Női;RAW;Masters 2;Guggolás;-52kg;Petróczki Magdolna;RKA Erőművek SE;1968;51,15;115,0;2018.03.06-11;Helsingborg, (SWE);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Guggolás;-57kg;;;;;;;;
+Női;RAW;Masters 2;Guggolás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,20;102,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Guggolás;-69kg;;;;;;;;
+Női;RAW;Masters 2;Guggolás;-76kg;;;;;;;;
+Női;RAW;Masters 2;Guggolás;-84kg;Bak Szilvia;Fortius SE;1971;82,95;135,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Guggolás;84+kg;Fazekas Andrea;Fortius SE;1966;103,69;122,5;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Fekvenyomás;-47kg;;;;;;;;
+Női;RAW;Masters 2;Fekvenyomás;-52kg;Petróczki Magdolna;RKA Erőművek SE;1968;51,15;75,0;2018.03.06-11;Helsingborg, (SWE);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Fekvenyomás;-57kg;;;;;;;;
+Női;RAW;Masters 2;Fekvenyomás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,20;90,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Fekvenyomás;-69kg;;;;;;;;
+Női;RAW;Masters 2;Fekvenyomás;-76kg;;;;;;;;
+Női;RAW;Masters 2;Fekvenyomás;-84kg;Bak Szilvia;Fortius SE;1971;82,95;90,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Fekvenyomás;84+kg;Fazekas Andrea;Fortius SE;1966;103,69;75,0;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Felhúzás;-47kg;;;;;;;;
+Női;RAW;Masters 2;Felhúzás;-52kg;Petróczki Magdolna;RKA Erőművek SE;1968;51,50;142,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Felhúzás;-57kg;;;;;;;;
+Női;RAW;Masters 2;Felhúzás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,20;135,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Felhúzás;-69kg;;;;;;;;
+Női;RAW;Masters 2;Felhúzás;-76kg;;;;;;;;
+Női;RAW;Masters 2;Felhúzás;-84kg;Bak Szilvia;Fortius SE;1971;82,95;175,0;2021.07.07-13;Pilsen (CZE);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 2;Felhúzás;84+kg;Fazekas Andrea;Fortius SE;1966;103,69;152,5;2020.03.09-14;Albi (FRA);Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 3;Összetett;-47kg;;;;;;;;
+Női;RAW;Masters 3;Összetett;-52kg;;;;;;;;
+Női;RAW;Masters 3;Összetett;-57kg;;;;;;;;
+Női;RAW;Masters 3;Összetett;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,2;327,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 3;Összetett;-69kg;;;;;;;;
+Női;RAW;Masters 3;Összetett;-76kg;;;;;;;;
+Női;RAW;Masters 3;Összetett;-84kg;;;;;;;;
+Női;RAW;Masters 3;Összetett;84+kg;;;;;;;;
+Női;RAW;Masters 3;Guggolás;-47kg;;;;;;;;
+Női;RAW;Masters 3;Guggolás;-52kg;;;;;;;;
+Női;RAW;Masters 3;Guggolás;-57kg;;;;;;;;
+Női;RAW;Masters 3;Guggolás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,20;102,5;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 3;Guggolás;-69kg;;;;;;;;
+Női;RAW;Masters 3;Guggolás;-76kg;;;;;;;;
+Női;RAW;Masters 3;Guggolás;-84kg;;;;;;;;
+Női;RAW;Masters 3;Guggolás;84+kg;;;;;;;;
+Női;RAW;Masters 3;Fekvenyomás;-47kg;;;;;;;;
+Női;RAW;Masters 3;Fekvenyomás;-52kg;;;;;;;;
+Női;RAW;Masters 3;Fekvenyomás;-57kg;;;;;;;;
+Női;RAW;Masters 3;Fekvenyomás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,20;90,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 3;Fekvenyomás;-69kg;;;;;;;;
+Női;RAW;Masters 3;Fekvenyomás;-76kg;;;;;;;;
+Női;RAW;Masters 3;Fekvenyomás;-84kg;;;;;;;;
+Női;RAW;Masters 3;Fekvenyomás;84+kg;;;;;;;;
+Női;RAW;Masters 3;Felhúzás;-47kg;;;;;;;;
+Női;RAW;Masters 3;Felhúzás;-52kg;;;;;;;;
+Női;RAW;Masters 3;Felhúzás;-57kg;;;;;;;;
+Női;RAW;Masters 3;Felhúzás;-63kg;Kosztin Flóra;Gyulai Atlasz SE;1955;60,20;135,0;2019.03.05-10;Győr;Masters RAW Erőemelő Európa Bajnokság
+Női;RAW;Masters 3;Felhúzás;-69kg;;;;;;;;
+Női;RAW;Masters 3;Felhúzás;-76kg;;;;;;;;
+Női;RAW;Masters 3;Felhúzás;-84kg;;;;;;;;
+Női;RAW;Masters 3;Felhúzás;84+kg;;;;;;;;
